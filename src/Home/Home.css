@@ -1,0 +1,12 @@
+.branch-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 16px;
+  line-height: 1.5em;
+}
+
+.branch-container div:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

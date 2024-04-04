@@ -1,0 +1,9002 @@
+ [
+  {
+    "gender": "Male",
+    "productA": 110,
+    "productB": 22,
+    "productC": 92,
+    "productD": -74,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 67,
+    "productB": -49,
+    "productC": -113,
+    "productD": 4,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 42,
+    "productB": -31,
+    "productC": -88,
+    "productD": -44,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 11,
+    "productB": 45,
+    "productC": 27,
+    "productD": 56,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -66,
+    "productB": 99,
+    "productC": -57,
+    "productD": -42,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 70,
+    "productB": -81,
+    "productC": -97,
+    "productD": -4,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 56,
+    "productB": -87,
+    "productC": -62,
+    "productD": 115,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 20,
+    "productB": -78,
+    "productC": 34,
+    "productD": -88,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 43,
+    "productB": -19,
+    "productC": -120,
+    "productD": -79,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 49,
+    "productB": -93,
+    "productC": 92,
+    "productD": 78,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 66,
+    "productB": -11,
+    "productC": -66,
+    "productD": -64,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 42,
+    "productB": -84,
+    "productC": -122,
+    "productD": 37,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -21,
+    "productB": -32,
+    "productC": -37,
+    "productD": -8,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -101,
+    "productB": 7,
+    "productC": -8,
+    "productD": 30,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 97,
+    "productB": 96,
+    "productC": -41,
+    "productD": 25,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 58,
+    "productB": 39,
+    "productC": 6,
+    "productD": 59,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 74,
+    "productB": 48,
+    "productC": 88,
+    "productD": -126,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 2,
+    "productB": 44,
+    "productC": -21,
+    "productD": 15,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -63,
+    "productB": 14,
+    "productC": 92,
+    "productD": 57,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 25,
+    "productB": -1,
+    "productC": 14,
+    "productD": -89,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -30,
+    "productB": 4,
+    "productC": 16,
+    "productD": 99,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 118,
+    "productB": -18,
+    "productC": 66,
+    "productD": -51,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": -53,
+    "productC": 20,
+    "productD": -84,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 114,
+    "productB": 24,
+    "productC": 64,
+    "productD": -31,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -84,
+    "productB": -17,
+    "productC": -57,
+    "productD": 40,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 51,
+    "productB": 92,
+    "productC": -20,
+    "productD": -100,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 42,
+    "productB": -86,
+    "productC": -60,
+    "productD": -102,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -28,
+    "productB": 104,
+    "productC": -101,
+    "productD": 86,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -44,
+    "productB": 36,
+    "productC": 32,
+    "productD": -123,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 1,
+    "productB": -83,
+    "productC": 68,
+    "productD": -43,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 21,
+    "productB": -99,
+    "productC": -104,
+    "productD": 5,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -55,
+    "productB": 13,
+    "productC": -88,
+    "productD": 50,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 79,
+    "productB": -64,
+    "productC": -125,
+    "productD": -127,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -90,
+    "productB": 29,
+    "productC": 71,
+    "productD": 102,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 103,
+    "productB": 98,
+    "productC": -128,
+    "productD": 34,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -96,
+    "productB": -29,
+    "productC": 51,
+    "productD": -40,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 5,
+    "productB": -15,
+    "productC": -112,
+    "productD": 18,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 93,
+    "productB": 19,
+    "productC": -118,
+    "productD": 17,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 91,
+    "productB": -59,
+    "productC": -96,
+    "productD": -31,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 108,
+    "productB": 34,
+    "productC": -33,
+    "productD": -61,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -31,
+    "productB": 76,
+    "productC": -81,
+    "productD": -73,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 25,
+    "productB": -109,
+    "productC": 77,
+    "productD": -62,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 66,
+    "productB": -28,
+    "productC": 52,
+    "productD": -95,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 49,
+    "productB": -65,
+    "productC": -20,
+    "productD": 108,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 44,
+    "productB": 64,
+    "productC": -128,
+    "productD": -84,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 65,
+    "productB": -39,
+    "productC": -56,
+    "productD": -123,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -14,
+    "productB": -74,
+    "productC": -71,
+    "productD": 81,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 100,
+    "productB": -87,
+    "productC": 104,
+    "productD": -32,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -44,
+    "productB": -81,
+    "productC": 34,
+    "productD": -25,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": 109,
+    "productB": -60,
+    "productC": -53,
+    "productD": -83,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 21,
+    "productB": -70,
+    "productC": -87,
+    "productD": -17,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -96,
+    "productB": -41,
+    "productC": -123,
+    "productD": 80,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 45,
+    "productB": -48,
+    "productC": 109,
+    "productD": -36,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -69,
+    "productB": -69,
+    "productC": -7,
+    "productD": -106,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 70,
+    "productB": -4,
+    "productC": 127,
+    "productD": -124,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 113,
+    "productB": 95,
+    "productC": 17,
+    "productD": -54,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": -118,
+    "productB": 47,
+    "productC": -87,
+    "productD": 102,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -128,
+    "productB": -105,
+    "productC": 94,
+    "productD": -31,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 30,
+    "productB": 46,
+    "productC": 111,
+    "productD": -64,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": 31,
+    "productC": 55,
+    "productD": 8,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": -96,
+    "productB": -12,
+    "productC": -88,
+    "productD": -74,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 3,
+    "productB": 106,
+    "productC": 96,
+    "productD": -84,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 62,
+    "productB": 73,
+    "productC": -90,
+    "productD": -101,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -61,
+    "productB": -49,
+    "productC": -30,
+    "productD": 76,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": 114,
+    "productC": -62,
+    "productD": 45,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -114,
+    "productB": 22,
+    "productC": 77,
+    "productD": 26,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 109,
+    "productB": -124,
+    "productC": -107,
+    "productD": 107,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": 34,
+    "productC": -112,
+    "productD": 42,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -101,
+    "productB": -45,
+    "productC": -65,
+    "productD": 126,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -9,
+    "productB": 78,
+    "productC": -74,
+    "productD": 37,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 0,
+    "productB": -55,
+    "productC": 70,
+    "productD": 91,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -85,
+    "productB": 1,
+    "productC": -58,
+    "productD": -55,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 19,
+    "productB": -14,
+    "productC": -20,
+    "productD": 94,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 41,
+    "productB": -116,
+    "productC": -63,
+    "productD": 63,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -92,
+    "productB": 85,
+    "productC": -29,
+    "productD": -79,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 105,
+    "productB": 99,
+    "productC": 64,
+    "productD": 50,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 64,
+    "productB": 87,
+    "productC": 65,
+    "productD": 53,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -18,
+    "productB": 11,
+    "productC": 9,
+    "productD": -89,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 4,
+    "productB": -19,
+    "productC": 86,
+    "productD": -100,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -25,
+    "productB": -85,
+    "productC": 110,
+    "productD": -36,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 39,
+    "productB": -25,
+    "productC": 66,
+    "productD": 49,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 116,
+    "productB": 83,
+    "productC": 6,
+    "productD": 82,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -14,
+    "productB": 33,
+    "productC": -8,
+    "productD": 55,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -47,
+    "productB": -17,
+    "productC": -29,
+    "productD": -105,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 122,
+    "productB": 36,
+    "productC": 87,
+    "productD": -14,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -30,
+    "productB": -21,
+    "productC": 18,
+    "productD": 119,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -119,
+    "productB": 113,
+    "productC": -123,
+    "productD": 55,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 78,
+    "productB": -60,
+    "productC": -65,
+    "productD": 26,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 2,
+    "productB": -64,
+    "productC": -7,
+    "productD": -43,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": 81,
+    "productC": 113,
+    "productD": -110,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": -3,
+    "productB": 68,
+    "productC": -23,
+    "productD": -42,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -124,
+    "productB": -85,
+    "productC": 106,
+    "productD": -19,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 76,
+    "productB": -20,
+    "productC": 18,
+    "productD": -26,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": -88,
+    "productB": -13,
+    "productC": 40,
+    "productD": 118,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 115,
+    "productB": -60,
+    "productC": 110,
+    "productD": 112,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -31,
+    "productB": -15,
+    "productC": -66,
+    "productD": -39,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 9,
+    "productB": -114,
+    "productC": 124,
+    "productD": -57,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 33,
+    "productB": 53,
+    "productC": 50,
+    "productD": -12,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 83,
+    "productB": -38,
+    "productC": -12,
+    "productD": 51,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 22,
+    "productB": -90,
+    "productC": -64,
+    "productD": 18,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": 2,
+    "productC": -98,
+    "productD": 106,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 124,
+    "productB": 126,
+    "productC": -93,
+    "productD": 14,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -101,
+    "productB": -29,
+    "productC": 121,
+    "productD": 66,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -114,
+    "productB": 75,
+    "productC": -27,
+    "productD": 86,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -22,
+    "productB": -100,
+    "productC": -95,
+    "productD": -80,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": -79,
+    "productC": 25,
+    "productD": -48,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -113,
+    "productB": -42,
+    "productC": -5,
+    "productD": 35,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 18,
+    "productB": 106,
+    "productC": -86,
+    "productD": -22,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 46,
+    "productB": 79,
+    "productC": 38,
+    "productD": 17,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 32,
+    "productB": 61,
+    "productC": -88,
+    "productD": -128,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 90,
+    "productB": -59,
+    "productC": -122,
+    "productD": 39,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -25,
+    "productB": 103,
+    "productC": -44,
+    "productD": -65,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -91,
+    "productB": -127,
+    "productC": -45,
+    "productD": -21,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": 44,
+    "productB": 30,
+    "productC": 41,
+    "productD": 66,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 10,
+    "productB": 98,
+    "productC": 98,
+    "productD": 57,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -83,
+    "productB": -102,
+    "productC": 118,
+    "productD": 109,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": -19,
+    "productC": -118,
+    "productD": -57,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 25,
+    "productB": 49,
+    "productC": -117,
+    "productD": -58,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 57,
+    "productB": -97,
+    "productC": -7,
+    "productD": 27,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -118,
+    "productB": -7,
+    "productC": 15,
+    "productD": -19,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 35,
+    "productB": 126,
+    "productC": 33,
+    "productD": -79,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": 79,
+    "productB": 26,
+    "productC": -38,
+    "productD": 37,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 37,
+    "productB": 10,
+    "productC": 32,
+    "productD": -119,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": -103,
+    "productC": -65,
+    "productD": -122,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": 67,
+    "productB": -83,
+    "productC": -45,
+    "productD": -97,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -75,
+    "productB": -4,
+    "productC": -20,
+    "productD": -22,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 81,
+    "productB": 115,
+    "productC": -21,
+    "productD": 114,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -28,
+    "productB": -60,
+    "productC": -16,
+    "productD": 6,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -27,
+    "productB": -81,
+    "productC": 127,
+    "productD": 74,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -21,
+    "productB": 11,
+    "productC": -10,
+    "productD": 98,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 77,
+    "productB": 53,
+    "productC": -88,
+    "productD": -128,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -108,
+    "productB": -125,
+    "productC": -28,
+    "productD": -15,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -42,
+    "productB": -106,
+    "productC": -79,
+    "productD": -68,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -55,
+    "productB": -105,
+    "productC": -14,
+    "productD": -42,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": -112,
+    "productC": 35,
+    "productD": 126,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": 33,
+    "productB": -103,
+    "productC": -86,
+    "productD": 70,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 66,
+    "productB": -42,
+    "productC": -62,
+    "productD": 62,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 90,
+    "productB": -12,
+    "productC": 119,
+    "productD": -95,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -76,
+    "productB": 52,
+    "productC": 111,
+    "productD": 40,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 62,
+    "productB": 24,
+    "productC": 110,
+    "productD": 84,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 88,
+    "productB": 28,
+    "productC": -9,
+    "productD": -73,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -1,
+    "productB": 99,
+    "productC": -106,
+    "productD": -13,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 12,
+    "productB": -28,
+    "productC": 46,
+    "productD": 23,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -12,
+    "productB": -67,
+    "productC": 47,
+    "productD": 112,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -38,
+    "productB": 29,
+    "productC": 110,
+    "productD": -62,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -63,
+    "productB": 39,
+    "productC": -11,
+    "productD": 97,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 44,
+    "productB": 77,
+    "productC": -107,
+    "productD": -116,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 106,
+    "productB": -33,
+    "productC": 61,
+    "productD": -82,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 118,
+    "productB": -47,
+    "productC": 85,
+    "productD": -77,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -100,
+    "productB": -1,
+    "productC": -33,
+    "productD": -39,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 77,
+    "productB": 85,
+    "productC": -76,
+    "productD": -82,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -93,
+    "productB": -46,
+    "productC": 81,
+    "productD": 102,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": -26,
+    "productB": -19,
+    "productC": 98,
+    "productD": 75,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -43,
+    "productB": -111,
+    "productC": -98,
+    "productD": 96,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -8,
+    "productB": -96,
+    "productC": -114,
+    "productD": -25,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -64,
+    "productB": -112,
+    "productC": 47,
+    "productD": -45,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -28,
+    "productB": 79,
+    "productC": -89,
+    "productD": 96,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -85,
+    "productB": -90,
+    "productC": -72,
+    "productD": -35,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -94,
+    "productB": 103,
+    "productC": -122,
+    "productD": -19,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 97,
+    "productB": -83,
+    "productC": -87,
+    "productD": -54,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -104,
+    "productB": 127,
+    "productC": -69,
+    "productD": -118,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 78,
+    "productB": -46,
+    "productC": -77,
+    "productD": -17,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 1,
+    "productB": -5,
+    "productC": 9,
+    "productD": -121,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -15,
+    "productB": -85,
+    "productC": -38,
+    "productD": -29,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 109,
+    "productB": -22,
+    "productC": -99,
+    "productD": -85,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -111,
+    "productB": -55,
+    "productC": -103,
+    "productD": -122,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -100,
+    "productB": 12,
+    "productC": 106,
+    "productD": -79,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": -125,
+    "productB": -49,
+    "productC": -117,
+    "productD": 18,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -105,
+    "productB": -4,
+    "productC": -96,
+    "productD": -90,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 124,
+    "productB": 105,
+    "productC": 110,
+    "productD": 117,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -42,
+    "productB": 50,
+    "productC": 16,
+    "productD": 30,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -117,
+    "productB": -57,
+    "productC": -125,
+    "productD": -15,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": -31,
+    "productC": 36,
+    "productD": -8,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 14,
+    "productB": 114,
+    "productC": -122,
+    "productD": 118,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -104,
+    "productB": 67,
+    "productC": -117,
+    "productD": 45,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": -12,
+    "productB": 14,
+    "productC": -108,
+    "productD": -1,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 81,
+    "productB": -44,
+    "productC": -44,
+    "productD": 119,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -34,
+    "productB": 77,
+    "productC": -44,
+    "productD": 78,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 120,
+    "productB": -78,
+    "productC": 126,
+    "productD": -15,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -22,
+    "productB": -6,
+    "productC": -3,
+    "productD": -77,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -37,
+    "productB": -39,
+    "productC": 18,
+    "productD": -92,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -90,
+    "productB": -69,
+    "productC": -40,
+    "productD": 65,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 43,
+    "productB": 119,
+    "productC": -76,
+    "productD": -111,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -114,
+    "productB": 50,
+    "productC": -37,
+    "productD": 3,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -61,
+    "productB": 18,
+    "productC": 84,
+    "productD": -104,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -44,
+    "productB": -96,
+    "productC": -124,
+    "productD": 97,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 38,
+    "productB": 24,
+    "productC": 53,
+    "productD": -90,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 104,
+    "productB": -34,
+    "productC": -74,
+    "productD": -13,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": -79,
+    "productC": -63,
+    "productD": 51,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -80,
+    "productB": -31,
+    "productC": 8,
+    "productD": 65,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -72,
+    "productB": -7,
+    "productC": -29,
+    "productD": 126,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 54,
+    "productB": -113,
+    "productC": -116,
+    "productD": -18,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 87,
+    "productB": 26,
+    "productC": 9,
+    "productD": -69,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -5,
+    "productB": -47,
+    "productC": 64,
+    "productD": -116,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -73,
+    "productB": 91,
+    "productC": 87,
+    "productD": 92,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -4,
+    "productB": 54,
+    "productC": -21,
+    "productD": -92,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 81,
+    "productB": 117,
+    "productC": 29,
+    "productD": 114,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 79,
+    "productB": 8,
+    "productC": -4,
+    "productD": 47,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -80,
+    "productB": 22,
+    "productC": 45,
+    "productD": 73,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 65,
+    "productB": 88,
+    "productC": -79,
+    "productD": -102,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -86,
+    "productB": -13,
+    "productC": 72,
+    "productD": -39,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -104,
+    "productB": -126,
+    "productC": 94,
+    "productD": -100,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": -32,
+    "productC": -3,
+    "productD": 7,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -76,
+    "productB": -96,
+    "productC": -97,
+    "productD": -33,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 126,
+    "productB": 21,
+    "productC": 77,
+    "productD": 99,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 83,
+    "productB": 21,
+    "productC": -75,
+    "productD": -97,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 11,
+    "productB": -29,
+    "productC": -20,
+    "productD": -84,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -112,
+    "productB": 116,
+    "productC": 115,
+    "productD": -127,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 43,
+    "productB": -121,
+    "productC": -12,
+    "productD": 91,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 57,
+    "productB": 81,
+    "productC": -54,
+    "productD": 83,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": 23,
+    "productB": -3,
+    "productC": 108,
+    "productD": 50,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -8,
+    "productB": -90,
+    "productC": -128,
+    "productD": -62,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": -53,
+    "productC": -114,
+    "productD": -64,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -90,
+    "productB": -43,
+    "productC": 29,
+    "productD": 102,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -89,
+    "productB": -72,
+    "productC": 102,
+    "productD": -108,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -58,
+    "productB": -48,
+    "productC": -26,
+    "productD": -52,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 119,
+    "productB": 31,
+    "productC": -122,
+    "productD": -5,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 88,
+    "productB": -111,
+    "productC": -125,
+    "productD": -113,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 116,
+    "productB": -94,
+    "productC": -31,
+    "productD": 104,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 52,
+    "productB": 113,
+    "productC": 64,
+    "productD": 13,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -63,
+    "productB": -49,
+    "productC": 33,
+    "productD": -60,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 3,
+    "productB": 125,
+    "productC": -89,
+    "productD": -12,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 115,
+    "productB": -100,
+    "productC": -43,
+    "productD": 37,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -115,
+    "productB": 19,
+    "productC": -32,
+    "productD": -110,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -32,
+    "productB": 120,
+    "productC": 69,
+    "productD": -123,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -118,
+    "productB": -25,
+    "productC": 35,
+    "productD": 120,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 125,
+    "productB": -108,
+    "productC": -115,
+    "productD": 54,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": 82,
+    "productC": 70,
+    "productD": -6,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -57,
+    "productB": 13,
+    "productC": -5,
+    "productD": 109,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -9,
+    "productB": -50,
+    "productC": 58,
+    "productD": -38,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -110,
+    "productB": 105,
+    "productC": -59,
+    "productD": -75,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -82,
+    "productB": -58,
+    "productC": 123,
+    "productD": 30,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -121,
+    "productB": 124,
+    "productC": 94,
+    "productD": -98,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": 85,
+    "productB": -67,
+    "productC": 99,
+    "productD": -58,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 78,
+    "productB": -75,
+    "productC": -48,
+    "productD": -30,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 107,
+    "productB": -62,
+    "productC": 58,
+    "productD": -22,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": -27,
+    "productB": -120,
+    "productC": 41,
+    "productD": -32,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": -42,
+    "productB": 35,
+    "productC": -75,
+    "productD": -82,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 53,
+    "productB": -18,
+    "productC": -55,
+    "productD": 121,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 74,
+    "productB": 112,
+    "productC": -50,
+    "productD": -79,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 9,
+    "productB": 23,
+    "productC": -88,
+    "productD": -128,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 53,
+    "productB": 122,
+    "productC": 108,
+    "productD": -69,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -29,
+    "productB": -22,
+    "productC": 50,
+    "productD": 2,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 8,
+    "productB": -72,
+    "productC": 12,
+    "productD": 50,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 37,
+    "productB": -23,
+    "productC": 100,
+    "productD": 65,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -103,
+    "productB": 93,
+    "productC": -68,
+    "productD": -109,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 69,
+    "productB": -106,
+    "productC": -65,
+    "productD": 3,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 79,
+    "productB": 23,
+    "productC": 67,
+    "productD": 68,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -71,
+    "productB": -56,
+    "productC": 12,
+    "productD": -103,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -113,
+    "productB": -36,
+    "productC": -31,
+    "productD": 17,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 87,
+    "productB": 67,
+    "productC": -117,
+    "productD": -56,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -53,
+    "productB": 66,
+    "productC": 120,
+    "productD": -37,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 118,
+    "productB": -25,
+    "productC": 124,
+    "productD": -78,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 42,
+    "productB": 93,
+    "productC": 49,
+    "productD": 3,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -125,
+    "productB": -16,
+    "productC": 98,
+    "productD": 40,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": -17,
+    "productB": 23,
+    "productC": 0,
+    "productD": 94,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -14,
+    "productB": 35,
+    "productC": -60,
+    "productD": 106,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 62,
+    "productB": -127,
+    "productC": 59,
+    "productD": -106,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 22,
+    "productB": -61,
+    "productC": 2,
+    "productD": -50,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 88,
+    "productB": -30,
+    "productC": -19,
+    "productD": -16,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 82,
+    "productB": -119,
+    "productC": 126,
+    "productD": -107,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 10,
+    "productB": 106,
+    "productC": -38,
+    "productD": 46,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -128,
+    "productB": -108,
+    "productC": 84,
+    "productD": 125,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 126,
+    "productB": -33,
+    "productC": -105,
+    "productD": -24,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 113,
+    "productB": -39,
+    "productC": -44,
+    "productD": -48,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 58,
+    "productB": 111,
+    "productC": -125,
+    "productD": -24,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": 118,
+    "productB": 71,
+    "productC": -111,
+    "productD": 121,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -7,
+    "productB": -85,
+    "productC": 57,
+    "productD": -7,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -31,
+    "productB": -74,
+    "productC": -54,
+    "productD": -110,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 93,
+    "productB": -71,
+    "productC": -105,
+    "productD": 110,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -57,
+    "productB": -37,
+    "productC": -32,
+    "productD": -56,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -64,
+    "productB": -77,
+    "productC": -109,
+    "productD": 77,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -9,
+    "productB": 67,
+    "productC": 125,
+    "productD": -19,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": -91,
+    "productC": -72,
+    "productD": 103,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -22,
+    "productB": -117,
+    "productC": 89,
+    "productD": 61,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 39,
+    "productB": 52,
+    "productC": 122,
+    "productD": -85,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -63,
+    "productB": -35,
+    "productC": -113,
+    "productD": 105,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 17,
+    "productB": 78,
+    "productC": 73,
+    "productD": -91,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": 122,
+    "productB": -106,
+    "productC": 29,
+    "productD": 115,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 125,
+    "productB": -117,
+    "productC": -36,
+    "productD": -99,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 66,
+    "productB": -32,
+    "productC": 54,
+    "productD": -94,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -16,
+    "productB": 65,
+    "productC": -53,
+    "productD": 73,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 32,
+    "productB": 2,
+    "productC": -85,
+    "productD": 5,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -39,
+    "productB": 10,
+    "productC": 67,
+    "productD": -31,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 65,
+    "productB": 12,
+    "productC": -42,
+    "productD": 122,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 27,
+    "productB": 76,
+    "productC": 72,
+    "productD": -87,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 17,
+    "productB": 65,
+    "productC": -115,
+    "productD": -82,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": 102,
+    "productC": -68,
+    "productD": 12,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -6,
+    "productB": 20,
+    "productC": 73,
+    "productD": 18,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 85,
+    "productB": -6,
+    "productC": 21,
+    "productD": 114,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 46,
+    "productB": 17,
+    "productC": 96,
+    "productD": -23,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -107,
+    "productB": -34,
+    "productC": 35,
+    "productD": 40,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 51,
+    "productB": 92,
+    "productC": -18,
+    "productD": -93,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -101,
+    "productB": -16,
+    "productC": -55,
+    "productD": -80,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 38,
+    "productB": 15,
+    "productC": 18,
+    "productD": -123,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -41,
+    "productB": -51,
+    "productC": 126,
+    "productD": -68,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -68,
+    "productB": -81,
+    "productC": 41,
+    "productD": -117,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 89,
+    "productB": -100,
+    "productC": -16,
+    "productD": 90,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 12,
+    "productB": -90,
+    "productC": 99,
+    "productD": -79,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -13,
+    "productB": -9,
+    "productC": 31,
+    "productD": 82,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -11,
+    "productB": -42,
+    "productC": -98,
+    "productD": -82,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 79,
+    "productB": 38,
+    "productC": 113,
+    "productD": 67,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": -115,
+    "productB": 96,
+    "productC": 111,
+    "productD": 92,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 68,
+    "productB": 38,
+    "productC": 56,
+    "productD": -16,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 24,
+    "productB": 1,
+    "productC": 56,
+    "productD": -64,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 96,
+    "productB": 41,
+    "productC": 42,
+    "productD": -1,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 0,
+    "productB": -115,
+    "productC": 36,
+    "productD": -1,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -60,
+    "productB": -101,
+    "productC": -20,
+    "productD": 18,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 93,
+    "productB": -38,
+    "productC": 60,
+    "productD": 55,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -56,
+    "productB": 51,
+    "productC": 35,
+    "productD": 106,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -68,
+    "productB": -43,
+    "productC": -33,
+    "productD": -97,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 7,
+    "productB": -76,
+    "productC": -74,
+    "productD": 69,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -127,
+    "productB": 111,
+    "productC": -125,
+    "productD": 100,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -117,
+    "productB": 80,
+    "productC": -20,
+    "productD": 87,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -47,
+    "productB": 71,
+    "productC": 45,
+    "productD": -120,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 119,
+    "productB": -80,
+    "productC": 120,
+    "productD": 127,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": -42,
+    "productB": -94,
+    "productC": 117,
+    "productD": 97,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 75,
+    "productB": -16,
+    "productC": -55,
+    "productD": -63,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 42,
+    "productB": 103,
+    "productC": 54,
+    "productD": 84,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -91,
+    "productB": 57,
+    "productC": -76,
+    "productD": 103,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 43,
+    "productB": 87,
+    "productC": -12,
+    "productD": -41,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -31,
+    "productB": -124,
+    "productC": -39,
+    "productD": 116,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": 38,
+    "productB": -92,
+    "productC": 78,
+    "productD": 55,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 121,
+    "productB": 86,
+    "productC": 87,
+    "productD": 113,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -41,
+    "productB": -45,
+    "productC": 13,
+    "productD": -79,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -33,
+    "productB": 63,
+    "productC": -107,
+    "productD": 95,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": 88,
+    "productC": -13,
+    "productD": -105,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 49,
+    "productB": -75,
+    "productC": -49,
+    "productD": -43,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -89,
+    "productB": 75,
+    "productC": -126,
+    "productD": 116,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 9,
+    "productB": -118,
+    "productC": -10,
+    "productD": -92,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -24,
+    "productB": 89,
+    "productC": -30,
+    "productD": -122,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -76,
+    "productB": 14,
+    "productC": 51,
+    "productD": -79,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 47,
+    "productB": 65,
+    "productC": -117,
+    "productD": -53,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 37,
+    "productB": 32,
+    "productC": 98,
+    "productD": -117,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -75,
+    "productB": 13,
+    "productC": 76,
+    "productD": 122,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": -11,
+    "productC": 71,
+    "productD": 62,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -118,
+    "productB": -11,
+    "productC": -50,
+    "productD": 97,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -37,
+    "productB": 2,
+    "productC": -83,
+    "productD": -10,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -63,
+    "productB": 11,
+    "productC": 62,
+    "productD": 56,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -29,
+    "productB": -3,
+    "productC": 66,
+    "productD": -111,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -89,
+    "productB": -67,
+    "productC": 92,
+    "productD": 102,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 108,
+    "productB": -37,
+    "productC": 43,
+    "productD": -100,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 106,
+    "productB": 47,
+    "productC": 12,
+    "productD": -4,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -98,
+    "productB": 23,
+    "productC": -12,
+    "productD": -119,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 16,
+    "productB": 72,
+    "productC": -123,
+    "productD": 0,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -46,
+    "productB": -91,
+    "productC": -22,
+    "productD": -116,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 119,
+    "productB": 110,
+    "productC": 93,
+    "productD": -54,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 82,
+    "productB": 97,
+    "productC": -30,
+    "productD": 66,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 86,
+    "productB": -101,
+    "productC": 89,
+    "productD": 17,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 81,
+    "productB": 37,
+    "productC": -98,
+    "productD": -83,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 54,
+    "productB": -128,
+    "productC": -96,
+    "productD": -83,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -70,
+    "productB": 68,
+    "productC": 34,
+    "productD": 88,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 14,
+    "productB": -94,
+    "productC": -70,
+    "productD": 5,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": -31,
+    "productB": 15,
+    "productC": -17,
+    "productD": -68,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 35,
+    "productB": 59,
+    "productC": 89,
+    "productD": 36,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -23,
+    "productB": -112,
+    "productC": -62,
+    "productD": 82,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 89,
+    "productB": 84,
+    "productC": 117,
+    "productD": -79,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 21,
+    "productB": 76,
+    "productC": 113,
+    "productD": 110,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -64,
+    "productB": 14,
+    "productC": 106,
+    "productD": -16,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 119,
+    "productB": -13,
+    "productC": 17,
+    "productD": -25,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 23,
+    "productB": -88,
+    "productC": 65,
+    "productD": 4,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -43,
+    "productB": 96,
+    "productC": 37,
+    "productD": -97,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": -5,
+    "productC": -119,
+    "productD": 119,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -20,
+    "productB": 70,
+    "productC": 82,
+    "productD": -48,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -12,
+    "productB": 110,
+    "productC": -20,
+    "productD": 26,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -61,
+    "productB": -123,
+    "productC": -48,
+    "productD": -17,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 70,
+    "productB": -49,
+    "productC": -37,
+    "productD": -12,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -92,
+    "productB": -66,
+    "productC": -7,
+    "productD": 121,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -3,
+    "productB": 118,
+    "productC": -74,
+    "productD": 46,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -19,
+    "productB": -101,
+    "productC": 8,
+    "productD": 58,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 1,
+    "productB": 52,
+    "productC": -95,
+    "productD": 17,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 120,
+    "productB": -2,
+    "productC": 81,
+    "productD": -15,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -15,
+    "productB": -1,
+    "productC": 82,
+    "productD": -126,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -47,
+    "productB": 42,
+    "productC": 18,
+    "productD": 108,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -115,
+    "productB": 53,
+    "productC": 14,
+    "productD": 32,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -128,
+    "productB": -10,
+    "productC": 62,
+    "productD": -18,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -30,
+    "productB": 53,
+    "productC": 96,
+    "productD": 91,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": -24,
+    "productB": 72,
+    "productC": -89,
+    "productD": -91,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 35,
+    "productB": 95,
+    "productC": -13,
+    "productD": -107,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -65,
+    "productB": 35,
+    "productC": 91,
+    "productD": -45,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": 99,
+    "productB": 38,
+    "productC": -47,
+    "productD": 78,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 56,
+    "productB": -124,
+    "productC": 76,
+    "productD": -21,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -18,
+    "productB": -49,
+    "productC": 82,
+    "productD": -23,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -104,
+    "productB": 19,
+    "productC": 24,
+    "productD": -28,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": 82,
+    "productC": -122,
+    "productD": -106,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 59,
+    "productB": -111,
+    "productC": -117,
+    "productD": -113,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -128,
+    "productB": -17,
+    "productC": -26,
+    "productD": -26,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": -22,
+    "productC": -34,
+    "productD": -18,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 44,
+    "productB": 11,
+    "productC": 90,
+    "productD": 31,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 123,
+    "productB": 24,
+    "productC": -5,
+    "productD": 8,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 1,
+    "productB": 37,
+    "productC": 27,
+    "productD": -102,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 73,
+    "productB": 43,
+    "productC": -14,
+    "productD": -37,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 39,
+    "productB": -121,
+    "productC": -102,
+    "productD": 15,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -71,
+    "productB": 39,
+    "productC": 72,
+    "productD": 3,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -60,
+    "productB": 54,
+    "productC": -92,
+    "productD": 19,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -108,
+    "productB": -119,
+    "productC": -111,
+    "productD": -47,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -3,
+    "productB": 24,
+    "productC": 14,
+    "productD": 126,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -4,
+    "productB": 115,
+    "productC": 58,
+    "productD": 95,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 6,
+    "productB": -54,
+    "productC": 91,
+    "productD": 106,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": -48,
+    "productB": 117,
+    "productC": -24,
+    "productD": 7,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 68,
+    "productB": 20,
+    "productC": 19,
+    "productD": 58,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 28,
+    "productB": 88,
+    "productC": -65,
+    "productD": 105,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -6,
+    "productB": 58,
+    "productC": -81,
+    "productD": 78,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": -100,
+    "productB": -55,
+    "productC": -12,
+    "productD": -58,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -90,
+    "productB": 108,
+    "productC": 119,
+    "productD": -112,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 28,
+    "productB": 65,
+    "productC": 35,
+    "productD": -57,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -10,
+    "productB": -88,
+    "productC": 55,
+    "productD": 111,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 23,
+    "productB": 34,
+    "productC": 127,
+    "productD": -14,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 126,
+    "productB": -123,
+    "productC": -49,
+    "productD": -59,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 73,
+    "productB": 113,
+    "productC": 47,
+    "productD": -71,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 30,
+    "productB": 1,
+    "productC": -16,
+    "productD": 60,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": -60,
+    "productB": -113,
+    "productC": 22,
+    "productD": 125,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -80,
+    "productB": -81,
+    "productC": -104,
+    "productD": 80,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -10,
+    "productB": 13,
+    "productC": -11,
+    "productD": -93,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -126,
+    "productB": 88,
+    "productC": -69,
+    "productD": 123,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": -124,
+    "productB": -29,
+    "productC": 59,
+    "productD": 76,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -55,
+    "productB": 77,
+    "productC": 56,
+    "productD": -33,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -17,
+    "productB": 104,
+    "productC": -14,
+    "productD": 111,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -16,
+    "productB": 18,
+    "productC": 104,
+    "productD": 40,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": -7,
+    "productC": -42,
+    "productD": 36,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 29,
+    "productB": -62,
+    "productC": 74,
+    "productD": -62,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 43,
+    "productB": 98,
+    "productC": 119,
+    "productD": -67,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -127,
+    "productB": -55,
+    "productC": 96,
+    "productD": -17,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -82,
+    "productB": -49,
+    "productC": 70,
+    "productD": 11,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -13,
+    "productB": 127,
+    "productC": 73,
+    "productD": -25,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -19,
+    "productB": -36,
+    "productC": -13,
+    "productD": 122,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -43,
+    "productB": 70,
+    "productC": -88,
+    "productD": -3,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 92,
+    "productB": 61,
+    "productC": 87,
+    "productD": 80,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -121,
+    "productB": 74,
+    "productC": -10,
+    "productD": 75,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 35,
+    "productB": -44,
+    "productC": -65,
+    "productD": -41,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 60,
+    "productB": 36,
+    "productC": -100,
+    "productD": 43,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": 31,
+    "productB": -87,
+    "productC": -21,
+    "productD": 84,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 3,
+    "productB": -62,
+    "productC": -41,
+    "productD": -105,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -4,
+    "productB": 126,
+    "productC": 10,
+    "productD": 117,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -97,
+    "productB": 44,
+    "productC": -95,
+    "productD": -9,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 127,
+    "productB": 90,
+    "productC": -31,
+    "productD": -65,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": 48,
+    "productC": -79,
+    "productD": -54,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -20,
+    "productB": 23,
+    "productC": -81,
+    "productD": 63,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -19,
+    "productB": -46,
+    "productC": -111,
+    "productD": 112,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -105,
+    "productB": -31,
+    "productC": 48,
+    "productD": -77,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 93,
+    "productB": 11,
+    "productC": 22,
+    "productD": 70,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 5,
+    "productB": 69,
+    "productC": 116,
+    "productD": -21,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 47,
+    "productB": 119,
+    "productC": -126,
+    "productD": -48,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -27,
+    "productB": 48,
+    "productC": 67,
+    "productD": 75,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -112,
+    "productB": -56,
+    "productC": -90,
+    "productD": -86,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": 21,
+    "productB": 84,
+    "productC": -92,
+    "productD": 22,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 36,
+    "productB": 77,
+    "productC": -27,
+    "productD": 52,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -61,
+    "productB": -107,
+    "productC": 11,
+    "productD": -26,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 64,
+    "productB": -2,
+    "productC": -125,
+    "productD": -19,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -30,
+    "productB": 114,
+    "productC": -86,
+    "productD": 99,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -56,
+    "productB": 67,
+    "productC": 111,
+    "productD": -100,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 83,
+    "productB": -43,
+    "productC": -46,
+    "productD": -20,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 8,
+    "productB": -118,
+    "productC": 50,
+    "productD": -70,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -126,
+    "productB": 69,
+    "productC": -88,
+    "productD": -37,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -86,
+    "productB": 69,
+    "productC": 34,
+    "productD": 78,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -111,
+    "productB": -51,
+    "productC": -40,
+    "productD": -112,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": 57,
+    "productC": 86,
+    "productD": -58,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -105,
+    "productB": 125,
+    "productC": 91,
+    "productD": -9,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -112,
+    "productB": -114,
+    "productC": 29,
+    "productD": 103,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 76,
+    "productB": 117,
+    "productC": -33,
+    "productD": 83,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 100,
+    "productB": 43,
+    "productC": -20,
+    "productD": 115,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": -74,
+    "productC": 115,
+    "productD": 114,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 9,
+    "productB": 48,
+    "productC": 80,
+    "productD": -107,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 53,
+    "productB": 39,
+    "productC": 31,
+    "productD": 1,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": 59,
+    "productC": 21,
+    "productD": 38,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 67,
+    "productB": 45,
+    "productC": -98,
+    "productD": -119,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -96,
+    "productB": 16,
+    "productC": 92,
+    "productD": 116,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -120,
+    "productB": -113,
+    "productC": -43,
+    "productD": -26,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -82,
+    "productB": 29,
+    "productC": -59,
+    "productD": 64,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": -45,
+    "productC": -88,
+    "productD": 46,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 82,
+    "productB": -105,
+    "productC": -30,
+    "productD": -14,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": 13,
+    "productB": -62,
+    "productC": 69,
+    "productD": -91,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": -25,
+    "productB": -90,
+    "productC": -123,
+    "productD": 89,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 2,
+    "productB": 23,
+    "productC": 115,
+    "productD": 111,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -87,
+    "productB": 107,
+    "productC": 120,
+    "productD": -33,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -26,
+    "productB": -26,
+    "productC": 61,
+    "productD": -65,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 9,
+    "productB": 14,
+    "productC": 75,
+    "productD": -101,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -61,
+    "productB": -50,
+    "productC": -123,
+    "productD": -90,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 80,
+    "productB": -91,
+    "productC": -92,
+    "productD": 44,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -120,
+    "productB": 79,
+    "productC": -111,
+    "productD": -61,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -56,
+    "productB": 44,
+    "productC": -68,
+    "productD": -13,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 67,
+    "productB": -40,
+    "productC": 11,
+    "productD": -112,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -14,
+    "productB": -97,
+    "productC": 61,
+    "productD": 60,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -8,
+    "productB": 42,
+    "productC": -67,
+    "productD": 27,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 71,
+    "productB": 40,
+    "productC": -101,
+    "productD": -1,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -50,
+    "productB": 103,
+    "productC": -1,
+    "productD": -77,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 43,
+    "productB": 31,
+    "productC": 81,
+    "productD": -43,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 115,
+    "productB": -17,
+    "productC": -96,
+    "productD": -11,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": -79,
+    "productB": -85,
+    "productC": -48,
+    "productD": -64,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 29,
+    "productB": -63,
+    "productC": 39,
+    "productD": -83,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 106,
+    "productB": 126,
+    "productC": -86,
+    "productD": 113,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -93,
+    "productB": 117,
+    "productC": -83,
+    "productD": 25,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 125,
+    "productB": 2,
+    "productC": -70,
+    "productD": -72,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 95,
+    "productB": 14,
+    "productC": -48,
+    "productD": -18,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -108,
+    "productB": 53,
+    "productC": 75,
+    "productD": 34,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -120,
+    "productB": -43,
+    "productC": -122,
+    "productD": -29,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": -84,
+    "productB": 77,
+    "productC": -95,
+    "productD": -83,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -19,
+    "productB": 64,
+    "productC": -28,
+    "productD": 118,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -74,
+    "productB": 77,
+    "productC": 97,
+    "productD": 103,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 26,
+    "productB": -60,
+    "productC": -42,
+    "productD": 11,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 13,
+    "productB": 99,
+    "productC": -56,
+    "productD": 56,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 25,
+    "productB": 75,
+    "productC": -119,
+    "productD": 8,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 13,
+    "productB": 64,
+    "productC": -125,
+    "productD": 11,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 54,
+    "productB": -57,
+    "productC": -117,
+    "productD": -59,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 75,
+    "productB": 17,
+    "productC": 84,
+    "productD": 15,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 91,
+    "productB": -44,
+    "productC": -73,
+    "productD": -124,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -28,
+    "productB": 118,
+    "productC": 69,
+    "productD": -23,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": -56,
+    "productB": 67,
+    "productC": -23,
+    "productD": -77,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -101,
+    "productB": 115,
+    "productC": -45,
+    "productD": -6,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -63,
+    "productB": -43,
+    "productC": -127,
+    "productD": 120,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 103,
+    "productB": 35,
+    "productC": 77,
+    "productD": 104,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 17,
+    "productB": -58,
+    "productC": -68,
+    "productD": 49,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -89,
+    "productB": 81,
+    "productC": 21,
+    "productD": -64,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": -25,
+    "productB": -51,
+    "productC": 74,
+    "productD": -39,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 47,
+    "productB": 120,
+    "productC": 30,
+    "productD": 115,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -59,
+    "productB": -76,
+    "productC": 91,
+    "productD": -1,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 85,
+    "productB": 87,
+    "productC": 97,
+    "productD": 87,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": -127,
+    "productB": -72,
+    "productC": -73,
+    "productD": 63,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 122,
+    "productB": 5,
+    "productC": 68,
+    "productD": -79,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 108,
+    "productB": -108,
+    "productC": -108,
+    "productD": -98,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -53,
+    "productB": -20,
+    "productC": -56,
+    "productD": 23,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 30,
+    "productB": -30,
+    "productC": -125,
+    "productD": -108,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 6,
+    "productB": 125,
+    "productC": 40,
+    "productD": -94,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 8,
+    "productB": 11,
+    "productC": -116,
+    "productD": 90,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 106,
+    "productB": -111,
+    "productC": -102,
+    "productD": -9,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -44,
+    "productB": 126,
+    "productC": 114,
+    "productD": 10,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 16,
+    "productB": -32,
+    "productC": 10,
+    "productD": -88,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -66,
+    "productB": -56,
+    "productC": 35,
+    "productD": -65,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -54,
+    "productB": -123,
+    "productC": -4,
+    "productD": 124,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 17,
+    "productB": 60,
+    "productC": 7,
+    "productD": 105,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 48,
+    "productB": -56,
+    "productC": -80,
+    "productD": 123,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -45,
+    "productB": 20,
+    "productC": -31,
+    "productD": 69,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 118,
+    "productB": -71,
+    "productC": 126,
+    "productD": 11,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": 66,
+    "productC": 19,
+    "productD": 70,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": 82,
+    "productB": -79,
+    "productC": -107,
+    "productD": -91,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -71,
+    "productB": -6,
+    "productC": 24,
+    "productD": -2,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": -1,
+    "productB": 56,
+    "productC": 127,
+    "productD": -98,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -121,
+    "productB": -120,
+    "productC": -36,
+    "productD": -51,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -84,
+    "productB": 45,
+    "productC": 106,
+    "productD": 67,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -76,
+    "productB": -59,
+    "productC": 97,
+    "productD": 122,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -30,
+    "productB": -126,
+    "productC": 3,
+    "productD": 96,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -7,
+    "productB": -85,
+    "productC": -85,
+    "productD": 16,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": -58,
+    "productB": -36,
+    "productC": -71,
+    "productD": 66,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 48,
+    "productB": -37,
+    "productC": 93,
+    "productD": -40,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -7,
+    "productB": -85,
+    "productC": -29,
+    "productD": -10,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -99,
+    "productB": -67,
+    "productC": 92,
+    "productD": -1,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 69,
+    "productB": -52,
+    "productC": -10,
+    "productD": 101,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -10,
+    "productB": 99,
+    "productC": -118,
+    "productD": -120,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -9,
+    "productB": 105,
+    "productC": -14,
+    "productD": -65,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 84,
+    "productB": 102,
+    "productC": 96,
+    "productD": -116,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -21,
+    "productB": 44,
+    "productC": 114,
+    "productD": 105,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 53,
+    "productB": -126,
+    "productC": -19,
+    "productD": -59,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 75,
+    "productB": -111,
+    "productC": 35,
+    "productD": 110,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -69,
+    "productB": -42,
+    "productC": -58,
+    "productD": -68,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 113,
+    "productB": -1,
+    "productC": 96,
+    "productD": 40,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -42,
+    "productB": 74,
+    "productC": 75,
+    "productD": -115,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 25,
+    "productB": 38,
+    "productC": -24,
+    "productD": -102,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -2,
+    "productB": 7,
+    "productC": -78,
+    "productD": 0,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 42,
+    "productB": -4,
+    "productC": 66,
+    "productD": -104,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 109,
+    "productB": 115,
+    "productC": -5,
+    "productD": 98,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": 3,
+    "productB": -58,
+    "productC": -115,
+    "productD": -27,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": -57,
+    "productB": 89,
+    "productC": -95,
+    "productD": 108,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -10,
+    "productB": 102,
+    "productC": -91,
+    "productD": -1,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 18,
+    "productB": -118,
+    "productC": 61,
+    "productD": 19,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 52,
+    "productB": 48,
+    "productC": -85,
+    "productD": 67,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -108,
+    "productB": -117,
+    "productC": -68,
+    "productD": -90,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -19,
+    "productB": 100,
+    "productC": -28,
+    "productD": -35,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 74,
+    "productB": 78,
+    "productC": -99,
+    "productD": -127,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 43,
+    "productB": -60,
+    "productC": -30,
+    "productD": 56,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -92,
+    "productB": 19,
+    "productC": -86,
+    "productD": 61,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 23,
+    "productB": 114,
+    "productC": -62,
+    "productD": 104,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 12,
+    "productB": 7,
+    "productC": 110,
+    "productD": 67,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 99,
+    "productB": -117,
+    "productC": 59,
+    "productD": -123,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 34,
+    "productB": -66,
+    "productC": 115,
+    "productD": -116,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 39,
+    "productB": 1,
+    "productC": 64,
+    "productD": -9,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -116,
+    "productB": 86,
+    "productC": 115,
+    "productD": 27,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -40,
+    "productB": -119,
+    "productC": 105,
+    "productD": 87,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -109,
+    "productB": -17,
+    "productC": 18,
+    "productD": -46,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -74,
+    "productB": -112,
+    "productC": 91,
+    "productD": -21,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -48,
+    "productB": -112,
+    "productC": 1,
+    "productD": -59,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 102,
+    "productB": 125,
+    "productC": 7,
+    "productD": -127,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -4,
+    "productB": -11,
+    "productC": -69,
+    "productD": -26,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 60,
+    "productB": 104,
+    "productC": 94,
+    "productD": -49,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -66,
+    "productB": 117,
+    "productC": 6,
+    "productD": -30,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 7,
+    "productB": -94,
+    "productC": -17,
+    "productD": 0,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 42,
+    "productB": 11,
+    "productC": -99,
+    "productD": -111,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 104,
+    "productB": 1,
+    "productC": -93,
+    "productD": 111,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 47,
+    "productB": 39,
+    "productC": 123,
+    "productD": 48,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 121,
+    "productB": -110,
+    "productC": 124,
+    "productD": 72,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 52,
+    "productB": 6,
+    "productC": 97,
+    "productD": 52,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 64,
+    "productB": 54,
+    "productC": -41,
+    "productD": -27,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -22,
+    "productB": -43,
+    "productC": -74,
+    "productD": -82,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 54,
+    "productB": 36,
+    "productC": 65,
+    "productD": -110,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": 87,
+    "productC": -108,
+    "productD": -66,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": -12,
+    "productC": 47,
+    "productD": -81,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 107,
+    "productB": 56,
+    "productC": -6,
+    "productD": -80,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 73,
+    "productB": 109,
+    "productC": 121,
+    "productD": 119,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -18,
+    "productB": 104,
+    "productC": 33,
+    "productD": -99,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 47,
+    "productB": -11,
+    "productC": 105,
+    "productD": -103,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 90,
+    "productB": -13,
+    "productC": 101,
+    "productD": -73,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": -77,
+    "productB": 66,
+    "productC": 70,
+    "productD": 106,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 119,
+    "productB": 63,
+    "productC": 60,
+    "productD": 101,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -82,
+    "productB": -27,
+    "productC": -2,
+    "productD": -117,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -93,
+    "productB": -7,
+    "productC": -114,
+    "productD": -54,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": 74,
+    "productC": -7,
+    "productD": -14,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 26,
+    "productB": 64,
+    "productC": 13,
+    "productD": -86,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -94,
+    "productB": -77,
+    "productC": 14,
+    "productD": 107,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 59,
+    "productB": -4,
+    "productC": -49,
+    "productD": -71,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -58,
+    "productB": -118,
+    "productC": 94,
+    "productD": 15,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -124,
+    "productB": -91,
+    "productC": 16,
+    "productD": 6,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -30,
+    "productB": -8,
+    "productC": 89,
+    "productD": 6,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": -17,
+    "productB": 109,
+    "productC": -23,
+    "productD": 34,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 41,
+    "productB": 18,
+    "productC": 14,
+    "productD": 111,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 87,
+    "productB": -86,
+    "productC": -28,
+    "productD": 50,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -121,
+    "productB": 50,
+    "productC": -38,
+    "productD": 102,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 114,
+    "productB": -105,
+    "productC": -28,
+    "productD": 83,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": 48,
+    "productB": -80,
+    "productC": 121,
+    "productD": 115,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -28,
+    "productB": -2,
+    "productC": 114,
+    "productD": 77,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": -82,
+    "productB": -41,
+    "productC": 38,
+    "productD": 65,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -122,
+    "productB": -15,
+    "productC": 63,
+    "productD": -51,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": -125,
+    "productB": 34,
+    "productC": 84,
+    "productD": -26,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": 126,
+    "productB": 16,
+    "productC": -71,
+    "productD": -58,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -27,
+    "productB": 105,
+    "productC": -80,
+    "productD": 19,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -60,
+    "productB": 54,
+    "productC": 6,
+    "productD": -102,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -116,
+    "productB": 90,
+    "productC": -93,
+    "productD": -15,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 47,
+    "productB": 10,
+    "productC": 48,
+    "productD": -45,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": 107,
+    "productB": -106,
+    "productC": -78,
+    "productD": 36,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 67,
+    "productB": -43,
+    "productC": 120,
+    "productD": -68,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -112,
+    "productB": 8,
+    "productC": 29,
+    "productD": -102,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 31,
+    "productB": 41,
+    "productC": 81,
+    "productD": 80,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 92,
+    "productB": 88,
+    "productC": 125,
+    "productD": 36,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -5,
+    "productB": 22,
+    "productC": 13,
+    "productD": -128,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 32,
+    "productB": 104,
+    "productC": 15,
+    "productD": 25,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -51,
+    "productB": 75,
+    "productC": -51,
+    "productD": 88,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 117,
+    "productB": 15,
+    "productC": -85,
+    "productD": -18,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 26,
+    "productB": -44,
+    "productC": -48,
+    "productD": 47,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 46,
+    "productB": -117,
+    "productC": -70,
+    "productD": -16,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 86,
+    "productB": -18,
+    "productC": 40,
+    "productD": 75,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -91,
+    "productB": -98,
+    "productC": -91,
+    "productD": -43,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 64,
+    "productB": 65,
+    "productC": 33,
+    "productD": 62,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -40,
+    "productB": -62,
+    "productC": 99,
+    "productD": -125,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -121,
+    "productB": -66,
+    "productC": -118,
+    "productD": 34,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -2,
+    "productB": 41,
+    "productC": 84,
+    "productD": 45,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -88,
+    "productB": 12,
+    "productC": 38,
+    "productD": 81,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 35,
+    "productB": 53,
+    "productC": -50,
+    "productD": 88,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 75,
+    "productB": -117,
+    "productC": -84,
+    "productD": 10,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 56,
+    "productB": -115,
+    "productC": -19,
+    "productD": -60,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -48,
+    "productB": -23,
+    "productC": 27,
+    "productD": -32,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 81,
+    "productB": -122,
+    "productC": -53,
+    "productD": 82,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": 114,
+    "productB": -5,
+    "productC": -61,
+    "productD": -74,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -36,
+    "productB": 94,
+    "productC": 0,
+    "productD": 111,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -73,
+    "productB": 86,
+    "productC": 110,
+    "productD": -128,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": -116,
+    "productB": -71,
+    "productC": -85,
+    "productD": 105,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -120,
+    "productB": 73,
+    "productC": 20,
+    "productD": -2,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 78,
+    "productB": 97,
+    "productC": -115,
+    "productD": -90,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 22,
+    "productB": -81,
+    "productC": 6,
+    "productD": 13,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 43,
+    "productB": 49,
+    "productC": 70,
+    "productD": -93,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 95,
+    "productB": 12,
+    "productC": -97,
+    "productD": 26,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -115,
+    "productB": 89,
+    "productC": 80,
+    "productD": 110,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 19,
+    "productB": 79,
+    "productC": -8,
+    "productD": 88,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -63,
+    "productB": -31,
+    "productC": -83,
+    "productD": -3,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -32,
+    "productB": -105,
+    "productC": -36,
+    "productD": -77,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 113,
+    "productB": -124,
+    "productC": -38,
+    "productD": -67,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -56,
+    "productB": 24,
+    "productC": 12,
+    "productD": -69,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -79,
+    "productB": 44,
+    "productC": 58,
+    "productD": -49,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -22,
+    "productB": 117,
+    "productC": 56,
+    "productD": -60,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -84,
+    "productB": -28,
+    "productC": -107,
+    "productD": -19,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -98,
+    "productB": -121,
+    "productC": -42,
+    "productD": -28,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -34,
+    "productB": -101,
+    "productC": -93,
+    "productD": -18,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -59,
+    "productB": -76,
+    "productC": -26,
+    "productD": 44,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 1,
+    "productB": -91,
+    "productC": -121,
+    "productD": -25,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": 87,
+    "productB": -16,
+    "productC": 15,
+    "productD": 78,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -31,
+    "productB": 43,
+    "productC": 68,
+    "productD": 84,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 80,
+    "productB": -123,
+    "productC": -8,
+    "productD": 78,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 114,
+    "productB": -50,
+    "productC": -111,
+    "productD": 90,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 84,
+    "productB": -31,
+    "productC": -119,
+    "productD": 102,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -69,
+    "productB": 7,
+    "productC": -105,
+    "productD": -40,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -39,
+    "productB": 72,
+    "productC": -33,
+    "productD": -21,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 125,
+    "productB": 105,
+    "productC": -44,
+    "productD": 116,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 90,
+    "productB": 117,
+    "productC": -122,
+    "productD": 51,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 5,
+    "productB": -114,
+    "productC": -3,
+    "productD": 93,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 37,
+    "productB": 94,
+    "productC": -60,
+    "productD": 118,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -114,
+    "productB": 36,
+    "productC": 20,
+    "productD": -92,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -21,
+    "productB": 55,
+    "productC": -51,
+    "productD": -53,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": -126,
+    "productB": 37,
+    "productC": -24,
+    "productD": 127,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 19,
+    "productB": 68,
+    "productC": 9,
+    "productD": 46,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 6,
+    "productB": 83,
+    "productC": -79,
+    "productD": -38,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 65,
+    "productB": 39,
+    "productC": 63,
+    "productD": -63,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 73,
+    "productB": -121,
+    "productC": 23,
+    "productD": -40,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -61,
+    "productB": 77,
+    "productC": 14,
+    "productD": 108,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -49,
+    "productB": -23,
+    "productC": 29,
+    "productD": -40,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": -92,
+    "productB": -23,
+    "productC": -109,
+    "productD": 57,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -62,
+    "productB": -65,
+    "productC": -113,
+    "productD": -115,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": -44,
+    "productB": -88,
+    "productC": -75,
+    "productD": 9,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 50,
+    "productB": 96,
+    "productC": 66,
+    "productD": -23,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -29,
+    "productB": 31,
+    "productC": -5,
+    "productD": 67,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -11,
+    "productB": 71,
+    "productC": 122,
+    "productD": -12,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -70,
+    "productB": -63,
+    "productC": -91,
+    "productD": -117,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -4,
+    "productB": 123,
+    "productC": -126,
+    "productD": -47,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 2,
+    "productB": 82,
+    "productC": -37,
+    "productD": -55,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": -15,
+    "productB": -34,
+    "productC": 108,
+    "productD": -4,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -87,
+    "productB": -97,
+    "productC": -81,
+    "productD": -41,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 8,
+    "productB": 64,
+    "productC": 59,
+    "productD": 8,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 96,
+    "productB": 57,
+    "productC": -54,
+    "productD": 126,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 47,
+    "productB": 61,
+    "productC": 19,
+    "productD": -74,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": 27,
+    "productB": 60,
+    "productC": 68,
+    "productD": 84,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 82,
+    "productB": 59,
+    "productC": -124,
+    "productD": 122,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": 127,
+    "productB": -122,
+    "productC": -71,
+    "productD": -95,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -92,
+    "productB": -111,
+    "productC": 112,
+    "productD": 102,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -121,
+    "productB": -36,
+    "productC": 42,
+    "productD": 92,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 21,
+    "productB": -26,
+    "productC": 48,
+    "productD": -66,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": 125,
+    "productC": -24,
+    "productD": -100,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -59,
+    "productB": -40,
+    "productC": -40,
+    "productD": -24,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -98,
+    "productB": -80,
+    "productC": 1,
+    "productD": 61,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -79,
+    "productB": -117,
+    "productC": -39,
+    "productD": 58,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": -92,
+    "productB": -84,
+    "productC": 64,
+    "productD": 43,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 68,
+    "productB": 41,
+    "productC": -38,
+    "productD": 20,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 18,
+    "productB": -49,
+    "productC": 65,
+    "productD": -33,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": 10,
+    "productC": -126,
+    "productD": 41,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -96,
+    "productB": -32,
+    "productC": 69,
+    "productD": 77,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": -88,
+    "productC": 40,
+    "productD": 122,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": -115,
+    "productB": 127,
+    "productC": 35,
+    "productD": -56,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 31,
+    "productB": -12,
+    "productC": 108,
+    "productD": 19,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -29,
+    "productB": 66,
+    "productC": 10,
+    "productD": -116,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -76,
+    "productB": 108,
+    "productC": -69,
+    "productD": 106,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -51,
+    "productB": 8,
+    "productC": 25,
+    "productD": -71,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": -15,
+    "productB": 27,
+    "productC": -69,
+    "productD": 49,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 99,
+    "productB": -59,
+    "productC": -45,
+    "productD": 1,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -105,
+    "productB": -31,
+    "productC": -58,
+    "productD": -57,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -92,
+    "productB": -68,
+    "productC": -7,
+    "productD": -119,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 113,
+    "productB": -16,
+    "productC": -90,
+    "productD": 54,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 24,
+    "productB": -20,
+    "productC": -91,
+    "productD": 30,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -48,
+    "productB": 106,
+    "productC": -20,
+    "productD": 127,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 10,
+    "productB": 96,
+    "productC": -5,
+    "productD": -122,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -112,
+    "productB": 88,
+    "productC": -99,
+    "productD": 111,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 108,
+    "productB": -91,
+    "productC": 45,
+    "productD": -7,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 98,
+    "productB": 59,
+    "productC": 126,
+    "productD": -74,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": -65,
+    "productB": -81,
+    "productC": 72,
+    "productD": 124,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 18,
+    "productB": -65,
+    "productC": -76,
+    "productD": 50,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": 117,
+    "productB": 20,
+    "productC": -20,
+    "productD": -66,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": -117,
+    "productB": -107,
+    "productC": -69,
+    "productD": -26,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -52,
+    "productB": -72,
+    "productC": 80,
+    "productD": 6,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": -11,
+    "productC": -81,
+    "productD": 28,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 16,
+    "productB": 110,
+    "productC": -21,
+    "productD": -48,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -8,
+    "productB": 14,
+    "productC": -57,
+    "productD": -97,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -110,
+    "productB": -57,
+    "productC": 107,
+    "productD": -27,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 55,
+    "productB": 95,
+    "productC": 47,
+    "productD": -99,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Male",
+    "productA": -51,
+    "productB": 22,
+    "productC": -20,
+    "productD": -123,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 118,
+    "productB": 34,
+    "productC": 104,
+    "productD": 116,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -24,
+    "productB": -106,
+    "productC": 57,
+    "productD": -25,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Male",
+    "productA": -121,
+    "productB": -63,
+    "productC": -66,
+    "productD": 85,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -42,
+    "productB": -107,
+    "productC": -87,
+    "productD": 83,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": -63,
+    "productB": 70,
+    "productC": -79,
+    "productD": 81,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -78,
+    "productB": -117,
+    "productC": -67,
+    "productD": 76,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -121,
+    "productB": -82,
+    "productC": 32,
+    "productD": -109,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -83,
+    "productB": 80,
+    "productC": -120,
+    "productD": 70,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -56,
+    "productB": -72,
+    "productC": -83,
+    "productD": 104,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -59,
+    "productB": 125,
+    "productC": 114,
+    "productD": -3,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 76,
+    "productB": -47,
+    "productC": 21,
+    "productD": 100,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": -22,
+    "productB": 126,
+    "productC": 40,
+    "productD": 20,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 63,
+    "productB": 12,
+    "productC": 121,
+    "productD": -6,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": -82,
+    "productB": 124,
+    "productC": 74,
+    "productD": 79,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -124,
+    "productB": -105,
+    "productC": 109,
+    "productD": -47,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 62,
+    "productB": -95,
+    "productC": 106,
+    "productD": 102,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -128,
+    "productB": 26,
+    "productC": 88,
+    "productD": -101,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 63,
+    "productB": -19,
+    "productC": -10,
+    "productD": -115,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 83,
+    "productB": 94,
+    "productC": 54,
+    "productD": 61,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -57,
+    "productB": -90,
+    "productC": -127,
+    "productD": 21,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -58,
+    "productB": 45,
+    "productC": -81,
+    "productD": -110,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 3,
+    "productB": 23,
+    "productC": 48,
+    "productD": 127,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -15,
+    "productB": -117,
+    "productC": -9,
+    "productD": 78,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 79,
+    "productB": -77,
+    "productC": -3,
+    "productD": 105,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 77,
+    "productB": 17,
+    "productC": 82,
+    "productD": 120,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 43,
+    "productB": -108,
+    "productC": -79,
+    "productD": 68,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -95,
+    "productB": -95,
+    "productC": 108,
+    "productD": -69,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 23,
+    "productB": -121,
+    "productC": 75,
+    "productD": -41,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -112,
+    "productB": 23,
+    "productC": -125,
+    "productD": 62,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 99,
+    "productB": 4,
+    "productC": 22,
+    "productD": -57,
+    "day": "07",
+    "location": "07"
+  },
+  {
+    "gender": "Female",
+    "productA": 57,
+    "productB": -51,
+    "productC": -32,
+    "productD": 46,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 26,
+    "productB": 43,
+    "productC": -98,
+    "productD": -28,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -127,
+    "productB": -13,
+    "productC": -65,
+    "productD": -70,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 49,
+    "productB": -103,
+    "productC": 44,
+    "productD": -26,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 110,
+    "productB": 122,
+    "productC": 97,
+    "productD": 76,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 119,
+    "productB": -32,
+    "productC": -77,
+    "productD": 80,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -96,
+    "productB": -92,
+    "productC": -59,
+    "productD": 20,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": 48,
+    "productC": -68,
+    "productD": 98,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 119,
+    "productB": -51,
+    "productC": -99,
+    "productD": -113,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -104,
+    "productB": -89,
+    "productC": 8,
+    "productD": 49,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 21,
+    "productB": -28,
+    "productC": -55,
+    "productD": -49,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 108,
+    "productB": 98,
+    "productC": 109,
+    "productD": 16,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 61,
+    "productB": -25,
+    "productC": 105,
+    "productD": -59,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": 31,
+    "productB": -113,
+    "productC": -100,
+    "productD": 99,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": 60,
+    "productB": -82,
+    "productC": -107,
+    "productD": -65,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": -97,
+    "productB": -18,
+    "productC": 28,
+    "productD": -116,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 126,
+    "productB": 48,
+    "productC": 70,
+    "productD": 39,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": -74,
+    "productB": -37,
+    "productC": -116,
+    "productD": -10,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 3,
+    "productB": -22,
+    "productC": 66,
+    "productD": 55,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -109,
+    "productB": -125,
+    "productC": 90,
+    "productD": -23,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 69,
+    "productB": -35,
+    "productC": 110,
+    "productD": -22,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -118,
+    "productB": 85,
+    "productC": -62,
+    "productD": -24,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 58,
+    "productB": 67,
+    "productC": 127,
+    "productD": -1,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 86,
+    "productB": 94,
+    "productC": -76,
+    "productD": 93,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 119,
+    "productB": 87,
+    "productC": -91,
+    "productD": 99,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 107,
+    "productB": -37,
+    "productC": -59,
+    "productD": 33,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 27,
+    "productB": 53,
+    "productC": -5,
+    "productD": -72,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 6,
+    "productB": -47,
+    "productC": 14,
+    "productD": -68,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -75,
+    "productB": 122,
+    "productC": 7,
+    "productD": -83,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 57,
+    "productB": -74,
+    "productC": -128,
+    "productD": -92,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -29,
+    "productB": 45,
+    "productC": 32,
+    "productD": 1,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -117,
+    "productB": -54,
+    "productC": 86,
+    "productD": -72,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 32,
+    "productB": 68,
+    "productC": -5,
+    "productD": 43,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -18,
+    "productB": 75,
+    "productC": -123,
+    "productD": -70,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": 19,
+    "productB": 79,
+    "productC": -115,
+    "productD": 76,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 63,
+    "productB": 37,
+    "productC": 25,
+    "productD": 68,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": 89,
+    "productB": -98,
+    "productC": 69,
+    "productD": 122,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -5,
+    "productB": 35,
+    "productC": 81,
+    "productD": -73,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": 86,
+    "productB": -33,
+    "productC": 119,
+    "productD": 6,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": -51,
+    "productC": -48,
+    "productD": 82,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 67,
+    "productB": 70,
+    "productC": -102,
+    "productD": -79,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -58,
+    "productB": 20,
+    "productC": -117,
+    "productD": 21,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -83,
+    "productB": -89,
+    "productC": -116,
+    "productD": 33,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": 86,
+    "productB": -125,
+    "productC": 76,
+    "productD": 125,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": -2,
+    "productB": 21,
+    "productC": -113,
+    "productD": -49,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": -5,
+    "productB": -86,
+    "productC": 115,
+    "productD": 11,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": -99,
+    "productB": -33,
+    "productC": -32,
+    "productD": -29,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 16,
+    "productB": -88,
+    "productC": 111,
+    "productD": -67,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -38,
+    "productB": 38,
+    "productC": 9,
+    "productD": 3,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 85,
+    "productB": 30,
+    "productC": -126,
+    "productD": 0,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 40,
+    "productB": 94,
+    "productC": -28,
+    "productD": -19,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -115,
+    "productB": 117,
+    "productC": 14,
+    "productD": -112,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 4,
+    "productB": 3,
+    "productC": -113,
+    "productD": -2,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -93,
+    "productB": 42,
+    "productC": -79,
+    "productD": 103,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -108,
+    "productB": -10,
+    "productC": -44,
+    "productD": -127,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 96,
+    "productB": 29,
+    "productC": 87,
+    "productD": -9,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 81,
+    "productB": -7,
+    "productC": -58,
+    "productD": -15,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": -96,
+    "productB": -88,
+    "productC": 87,
+    "productD": 69,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 116,
+    "productB": -103,
+    "productC": -119,
+    "productD": -89,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": 69,
+    "productB": -67,
+    "productC": -71,
+    "productD": 48,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": -77,
+    "productB": 118,
+    "productC": 69,
+    "productD": 104,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": 110,
+    "productB": -30,
+    "productC": -122,
+    "productD": 104,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -15,
+    "productB": -100,
+    "productC": 41,
+    "productD": -86,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 84,
+    "productB": 113,
+    "productC": -55,
+    "productD": 116,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 91,
+    "productB": 56,
+    "productC": -38,
+    "productD": 1,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 50,
+    "productB": -92,
+    "productC": 123,
+    "productD": -55,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 104,
+    "productB": 81,
+    "productC": 40,
+    "productD": -14,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": -72,
+    "productB": 15,
+    "productC": -88,
+    "productD": -8,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": 4,
+    "productB": 123,
+    "productC": -41,
+    "productD": 99,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -12,
+    "productB": 103,
+    "productC": 12,
+    "productD": 67,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 31,
+    "productB": 8,
+    "productC": 61,
+    "productD": 73,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": -40,
+    "productB": -74,
+    "productC": 20,
+    "productD": 26,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 44,
+    "productB": -72,
+    "productC": -58,
+    "productD": 120,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -62,
+    "productB": -122,
+    "productC": -17,
+    "productD": -94,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Female",
+    "productA": 16,
+    "productB": 27,
+    "productC": 30,
+    "productD": 102,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Male",
+    "productA": -82,
+    "productB": -91,
+    "productC": 25,
+    "productD": -51,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Female",
+    "productA": 72,
+    "productB": -86,
+    "productC": -103,
+    "productD": -118,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": -11,
+    "productB": 69,
+    "productC": 17,
+    "productD": 76,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Male",
+    "productA": 81,
+    "productB": 15,
+    "productC": 62,
+    "productD": 101,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Female",
+    "productA": -21,
+    "productB": -59,
+    "productC": 100,
+    "productD": -93,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -85,
+    "productB": -63,
+    "productC": -13,
+    "productD": 98,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -86,
+    "productB": 59,
+    "productC": 11,
+    "productD": -61,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Female",
+    "productA": 123,
+    "productB": 89,
+    "productC": -104,
+    "productD": 10,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 91,
+    "productB": -87,
+    "productC": -127,
+    "productD": 30,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": -63,
+    "productB": 112,
+    "productC": -128,
+    "productD": 35,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -126,
+    "productB": 29,
+    "productC": 1,
+    "productD": -94,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": 13,
+    "productB": 15,
+    "productC": -28,
+    "productD": 64,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -124,
+    "productB": 14,
+    "productC": 127,
+    "productD": 13,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": 101,
+    "productC": 33,
+    "productD": -110,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 4,
+    "productB": -95,
+    "productC": 51,
+    "productD": 67,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -112,
+    "productB": 53,
+    "productC": -74,
+    "productD": 15,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 68,
+    "productB": 34,
+    "productC": 116,
+    "productD": -19,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 97,
+    "productB": -2,
+    "productC": 90,
+    "productD": 73,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 110,
+    "productB": -36,
+    "productC": -31,
+    "productD": 120,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -22,
+    "productB": -82,
+    "productC": -71,
+    "productD": 18,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": -44,
+    "productB": -37,
+    "productC": -59,
+    "productD": 117,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -100,
+    "productB": -105,
+    "productC": 95,
+    "productD": -72,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Female",
+    "productA": 49,
+    "productB": 19,
+    "productC": -84,
+    "productD": 126,
+    "day": "29",
+    "location": "29"
+  },
+  {
+    "gender": "Female",
+    "productA": 105,
+    "productB": 101,
+    "productC": -99,
+    "productD": -5,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": -79,
+    "productC": -63,
+    "productD": 77,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -67,
+    "productB": -93,
+    "productC": 55,
+    "productD": -73,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -47,
+    "productB": 118,
+    "productC": -41,
+    "productD": 106,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Female",
+    "productA": 124,
+    "productB": 57,
+    "productC": -19,
+    "productD": -110,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -101,
+    "productB": 19,
+    "productC": 39,
+    "productD": 114,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -24,
+    "productB": -121,
+    "productC": -62,
+    "productD": 0,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -30,
+    "productB": 11,
+    "productC": -108,
+    "productD": 19,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": -103,
+    "productB": 6,
+    "productC": -52,
+    "productD": -74,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Female",
+    "productA": -26,
+    "productB": -122,
+    "productC": -96,
+    "productD": 95,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": 87,
+    "productB": -100,
+    "productC": 41,
+    "productD": -57,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": 99,
+    "productB": 114,
+    "productC": -70,
+    "productD": -69,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Male",
+    "productA": 94,
+    "productB": -7,
+    "productC": 32,
+    "productD": -78,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -38,
+    "productB": 91,
+    "productC": 85,
+    "productD": -61,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": -5,
+    "productC": -40,
+    "productD": 84,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Male",
+    "productA": 75,
+    "productB": 109,
+    "productC": -6,
+    "productD": -6,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": -98,
+    "productB": -58,
+    "productC": -87,
+    "productD": 72,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": 76,
+    "productB": 104,
+    "productC": -29,
+    "productD": 103,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 104,
+    "productB": -121,
+    "productC": -51,
+    "productD": 2,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -5,
+    "productB": -36,
+    "productC": 71,
+    "productD": -23,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -10,
+    "productB": -35,
+    "productC": 125,
+    "productD": -112,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 123,
+    "productB": -110,
+    "productC": -126,
+    "productD": 49,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -85,
+    "productB": -25,
+    "productC": 72,
+    "productD": -45,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 83,
+    "productB": 59,
+    "productC": -57,
+    "productD": 44,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -48,
+    "productB": -21,
+    "productC": -7,
+    "productD": 25,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 117,
+    "productB": -6,
+    "productC": -32,
+    "productD": -78,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": -123,
+    "productB": 70,
+    "productC": 122,
+    "productD": 55,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -61,
+    "productB": 54,
+    "productC": 94,
+    "productD": 97,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": 18,
+    "productB": 3,
+    "productC": 14,
+    "productD": 40,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": 101,
+    "productB": -122,
+    "productC": -66,
+    "productD": 38,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -28,
+    "productB": 82,
+    "productC": -72,
+    "productD": 91,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 83,
+    "productB": 109,
+    "productC": -38,
+    "productD": 117,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": -2,
+    "productB": 58,
+    "productC": -73,
+    "productD": 79,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 81,
+    "productB": -66,
+    "productC": -64,
+    "productD": 10,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -128,
+    "productB": 74,
+    "productC": -92,
+    "productD": -89,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 16,
+    "productB": -4,
+    "productC": -112,
+    "productD": 82,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -31,
+    "productB": -76,
+    "productC": 125,
+    "productD": -39,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -78,
+    "productB": -65,
+    "productC": -24,
+    "productD": 3,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 102,
+    "productB": 51,
+    "productC": 119,
+    "productD": 72,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Female",
+    "productA": 47,
+    "productB": 85,
+    "productC": -38,
+    "productD": -29,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Female",
+    "productA": 43,
+    "productB": -27,
+    "productC": 10,
+    "productD": -73,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -12,
+    "productB": -33,
+    "productC": -6,
+    "productD": 35,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Female",
+    "productA": 23,
+    "productB": -49,
+    "productC": 45,
+    "productD": 113,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -36,
+    "productB": 88,
+    "productC": -94,
+    "productD": 55,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": -115,
+    "productB": -111,
+    "productC": 120,
+    "productD": -106,
+    "day": "04",
+    "location": "04"
+  },
+  {
+    "gender": "Male",
+    "productA": -33,
+    "productB": 8,
+    "productC": 57,
+    "productD": 36,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -118,
+    "productB": 101,
+    "productC": 84,
+    "productD": 118,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": 0,
+    "productB": -82,
+    "productC": -47,
+    "productD": 27,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 45,
+    "productB": -58,
+    "productC": 84,
+    "productD": 118,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -80,
+    "productB": -112,
+    "productC": 97,
+    "productD": 43,
+    "day": "09",
+    "location": "09"
+  },
+  {
+    "gender": "Male",
+    "productA": -25,
+    "productB": -6,
+    "productC": 31,
+    "productD": -52,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": -9,
+    "productB": -29,
+    "productC": -121,
+    "productD": 113,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 22,
+    "productB": -81,
+    "productC": 90,
+    "productD": 17,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": 74,
+    "productB": -70,
+    "productC": -120,
+    "productD": 35,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -87,
+    "productB": -24,
+    "productC": 30,
+    "productD": 52,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": 110,
+    "productB": 82,
+    "productC": -14,
+    "productD": 10,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -67,
+    "productB": 111,
+    "productC": 48,
+    "productD": -62,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": 4,
+    "productB": 89,
+    "productC": 67,
+    "productD": 75,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": 113,
+    "productB": -45,
+    "productC": -35,
+    "productD": 39,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Female",
+    "productA": -23,
+    "productB": -101,
+    "productC": 69,
+    "productD": 72,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 77,
+    "productB": -27,
+    "productC": 91,
+    "productD": 17,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Female",
+    "productA": 2,
+    "productB": 71,
+    "productC": 125,
+    "productD": -119,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 72,
+    "productB": 111,
+    "productC": -62,
+    "productD": 113,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Male",
+    "productA": -55,
+    "productB": 31,
+    "productC": -96,
+    "productD": -80,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 76,
+    "productB": 25,
+    "productC": -6,
+    "productD": 0,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Female",
+    "productA": 60,
+    "productB": 1,
+    "productC": -53,
+    "productD": 117,
+    "day": "03",
+    "location": "03"
+  },
+  {
+    "gender": "Male",
+    "productA": -68,
+    "productB": -74,
+    "productC": 98,
+    "productD": 54,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Male",
+    "productA": -47,
+    "productB": 82,
+    "productC": -125,
+    "productD": 41,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 114,
+    "productB": 82,
+    "productC": 22,
+    "productD": 66,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": 113,
+    "productB": -35,
+    "productC": -28,
+    "productD": 21,
+    "day": "11",
+    "location": "11"
+  },
+  {
+    "gender": "Male",
+    "productA": -54,
+    "productB": 116,
+    "productC": 4,
+    "productD": -96,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": 82,
+    "productB": -68,
+    "productC": -33,
+    "productD": -89,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": 18,
+    "productB": 62,
+    "productC": 104,
+    "productD": -110,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 67,
+    "productB": 92,
+    "productC": -32,
+    "productD": -82,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Male",
+    "productA": 96,
+    "productB": 18,
+    "productC": 123,
+    "productD": 125,
+    "day": "14",
+    "location": "14"
+  },
+  {
+    "gender": "Female",
+    "productA": -42,
+    "productB": 8,
+    "productC": 19,
+    "productD": -50,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Male",
+    "productA": 27,
+    "productB": -26,
+    "productC": -59,
+    "productD": -28,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 30,
+    "productB": 58,
+    "productC": -62,
+    "productD": -61,
+    "day": "31",
+    "location": "31"
+  },
+  {
+    "gender": "Female",
+    "productA": 58,
+    "productB": 15,
+    "productC": -127,
+    "productD": -42,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 33,
+    "productB": -9,
+    "productC": 33,
+    "productD": 37,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": 10,
+    "productB": -21,
+    "productC": -32,
+    "productD": 107,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Male",
+    "productA": 92,
+    "productB": 1,
+    "productC": -33,
+    "productD": -94,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Male",
+    "productA": 118,
+    "productB": -52,
+    "productC": -49,
+    "productD": 71,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -44,
+    "productB": 26,
+    "productC": -114,
+    "productD": -95,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": 56,
+    "productB": -28,
+    "productC": 103,
+    "productD": -47,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -60,
+    "productB": -59,
+    "productC": -22,
+    "productD": -59,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": 34,
+    "productB": 44,
+    "productC": 111,
+    "productD": -18,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -69,
+    "productB": -91,
+    "productC": -93,
+    "productD": 31,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -78,
+    "productB": -67,
+    "productC": 72,
+    "productD": 45,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": -57,
+    "productB": -24,
+    "productC": -106,
+    "productD": 75,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -85,
+    "productB": -67,
+    "productC": -47,
+    "productD": -14,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Female",
+    "productA": -52,
+    "productB": -90,
+    "productC": -99,
+    "productD": 19,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Male",
+    "productA": 21,
+    "productB": 76,
+    "productC": 34,
+    "productD": 122,
+    "day": "24",
+    "location": "24"
+  },
+  {
+    "gender": "Male",
+    "productA": -78,
+    "productB": -99,
+    "productC": -108,
+    "productD": 15,
+    "day": "10",
+    "location": "10"
+  },
+  {
+    "gender": "Male",
+    "productA": -107,
+    "productB": -103,
+    "productC": 50,
+    "productD": -32,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 123,
+    "productB": 51,
+    "productC": -91,
+    "productD": -89,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Male",
+    "productA": -92,
+    "productB": 95,
+    "productC": -83,
+    "productD": -39,
+    "day": "01",
+    "location": "01"
+  },
+  {
+    "gender": "Female",
+    "productA": -6,
+    "productB": -111,
+    "productC": 102,
+    "productD": -29,
+    "day": "15",
+    "location": "15"
+  },
+  {
+    "gender": "Female",
+    "productA": 116,
+    "productB": -37,
+    "productC": 6,
+    "productD": 36,
+    "day": "16",
+    "location": "16"
+  },
+  {
+    "gender": "Male",
+    "productA": 11,
+    "productB": -107,
+    "productC": -104,
+    "productD": -66,
+    "day": "23",
+    "location": "23"
+  },
+  {
+    "gender": "Male",
+    "productA": 103,
+    "productB": -91,
+    "productC": -17,
+    "productD": 96,
+    "day": "26",
+    "location": "26"
+  },
+  {
+    "gender": "Female",
+    "productA": -47,
+    "productB": 119,
+    "productC": -60,
+    "productD": 75,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Male",
+    "productA": 49,
+    "productB": -6,
+    "productC": -76,
+    "productD": -20,
+    "day": "13",
+    "location": "13"
+  },
+  {
+    "gender": "Female",
+    "productA": -108,
+    "productB": 20,
+    "productC": -118,
+    "productD": -104,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": -32,
+    "productB": -41,
+    "productC": 5,
+    "productD": 77,
+    "day": "28",
+    "location": "28"
+  },
+  {
+    "gender": "Male",
+    "productA": -55,
+    "productB": -62,
+    "productC": -72,
+    "productD": -13,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -121,
+    "productB": 106,
+    "productC": 31,
+    "productD": 27,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -62,
+    "productB": 41,
+    "productC": 3,
+    "productD": 121,
+    "day": "27",
+    "location": "27"
+  },
+  {
+    "gender": "Female",
+    "productA": 121,
+    "productB": 40,
+    "productC": -97,
+    "productD": -96,
+    "day": "30",
+    "location": "30"
+  },
+  {
+    "gender": "Female",
+    "productA": -64,
+    "productB": -92,
+    "productC": 70,
+    "productD": -56,
+    "day": "17",
+    "location": "17"
+  },
+  {
+    "gender": "Female",
+    "productA": -16,
+    "productB": -125,
+    "productC": -39,
+    "productD": 69,
+    "day": "25",
+    "location": "25"
+  },
+  {
+    "gender": "Female",
+    "productA": -43,
+    "productB": 99,
+    "productC": -112,
+    "productD": -72,
+    "day": "02",
+    "location": "02"
+  },
+  {
+    "gender": "Male",
+    "productA": -114,
+    "productB": -60,
+    "productC": -24,
+    "productD": -54,
+    "day": "21",
+    "location": "21"
+  },
+  {
+    "gender": "Female",
+    "productA": -26,
+    "productB": -119,
+    "productC": 60,
+    "productD": -60,
+    "day": "18",
+    "location": "18"
+  },
+  {
+    "gender": "Male",
+    "productA": -41,
+    "productB": -28,
+    "productC": -47,
+    "productD": 96,
+    "day": "20",
+    "location": "20"
+  },
+  {
+    "gender": "Female",
+    "productA": 1,
+    "productB": -103,
+    "productC": -112,
+    "productD": -90,
+    "day": "05",
+    "location": "05"
+  },
+  {
+    "gender": "Male",
+    "productA": 24,
+    "productB": -51,
+    "productC": 74,
+    "productD": -34,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Female",
+    "productA": -41,
+    "productB": -44,
+    "productC": 78,
+    "productD": 85,
+    "day": "19",
+    "location": "19"
+  },
+  {
+    "gender": "Male",
+    "productA": -89,
+    "productB": 95,
+    "productC": -17,
+    "productD": -108,
+    "day": "12",
+    "location": "12"
+  },
+  {
+    "gender": "Male",
+    "productA": -13,
+    "productB": -87,
+    "productC": -104,
+    "productD": 118,
+    "day": "06",
+    "location": "06"
+  },
+  {
+    "gender": "Male",
+    "productA": 83,
+    "productB": -56,
+    "productC": -26,
+    "productD": -17,
+    "day": "08",
+    "location": "08"
+  },
+  {
+    "gender": "Female",
+    "productA": 124,
+    "productB": 71,
+    "productC": -38,
+    "productD": -55,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Male",
+    "productA": -52,
+    "productB": 21,
+    "productC": -92,
+    "productD": 16,
+    "day": "22",
+    "location": "22"
+  },
+  {
+    "gender": "Female",
+    "productA": -85,
+    "productB": 95,
+    "productC": -79,
+    "productD": 93,
+    "day": "26",
+    "location": "26"
+  }
+]
