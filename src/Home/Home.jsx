@@ -1,11 +1,10 @@
 import React, { useState } from "react";
 import "./Home.css";
 import Branch from "../Branch/Branch";
-import mockDemand from "../Demand/demand.json";
 
-export default function Home({ loadDemand }) {
-  const [branch, setBranch] = useState(1);
-  const [day, setDay] = useState(1);
+export default function Home({ loadDemand, handleSync }) {
+  const [branch, setBranch] = useState(localStorage.getItem("branch") || 1);
+  const [day, setDay] = useState(localStorage.getItem("day") || 1);
   const [demand, setDemand] = useState(loadDemand);
   const [isShowingResult, setIsShowingResult] = useState(false);
   const branchNumber = [];
@@ -22,14 +21,27 @@ export default function Home({ loadDemand }) {
           parseInt(d.branch) === parseInt(branch),
       ),
     );
+    console.log(
+      loadDemand.filter(
+        (d) =>
+          parseInt(d.day) === parseInt(day) &&
+          parseInt(d.branch) === parseInt(branch),
+      ),
+    );
     setIsShowingResult(true);
   };
 
   const handleDayButton = (action) => {
     setIsShowingResult(false);
     if (action === "decrease" && parseInt(day) <= 1) return;
-    if (action === "increase") return setDay(parseInt(day) + 1);
-    if (action === "decrease") return setDay(parseInt(day) - 1);
+    if (action === "increase") {
+      localStorage.setItem("day", parseInt(day) + 1);
+      return setDay(parseInt(day) + 1);
+    }
+    if (action === "decrease") {
+      localStorage.setItem("day", parseInt(day) - 1);
+      return setDay(parseInt(day) - 1);
+    }
   };
 
   return (
@@ -37,19 +49,45 @@ export default function Home({ loadDemand }) {
       <h1>Demand Monitoring System</h1>
       <h2>Select Branch [{branch}]</h2>
       <div className="branch-container">
-        {branchNumber.map((branch) => {
-          return (
-            <div
-              key={branch}
-              onClick={() => {
-                setIsShowingResult(false);
-                setBranch(branch);
-              }}
-            >
-              Branch {branch}
-            </div>
-          );
-        })}
+        <select
+          onChange={(e) => {
+            setIsShowingResult(false);
+            setBranch(e.target.value);
+            localStorage.setItem("branch", e.target.value);
+          }}
+        >
+          <option value={0}>Select Branch</option>
+          {branchNumber.map((branch) => {
+            return (
+              <option
+                key={branch}
+                // onClick={() => {
+                //   setIsShowingResult(false);
+                //   setBranch(branch);
+                //   localStorage.setItem("branch", branch);
+                // }}
+                value={branch}
+              >
+                Branch {branch}
+              </option>
+            );
+          })}
+        </select>
+        <br />
+        {/* {branchNumber.map((branch) => { */}
+        {/*   return ( */}
+        {/*     <div */}
+        {/*       key={branch} */}
+        {/*       onClick={() => { */}
+        {/*         setIsShowingResult(false); */}
+        {/*         setBranch(branch); */}
+        {/*         localStorage.setItem("branch", branch); */}
+        {/*       }} */}
+        {/*     > */}
+        {/*       Branch {branch} */}
+        {/*     </div> */}
+        {/*   ); */}
+        {/* })} */}
       </div>
       <h2>Day: {day}</h2>
       <div>
@@ -64,7 +102,14 @@ export default function Home({ loadDemand }) {
         <button onClick={() => handleDayButton("increase")}>+</button>
       </div>
       <br />
-      <button onClick={handleView}>View</button>
+      <div>
+        <button
+          onClick={() => handleSync(localStorage.getItem("day") || day || 1)}
+        >
+          Sync
+        </button>{" "}
+        <button onClick={handleView}>View</button>
+      </div>
       {isShowingResult && <Branch day={day} branch={branch} demand={demand} />}
     </div>
   );

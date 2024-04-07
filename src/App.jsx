@@ -33,11 +33,12 @@ function App() {
   };
 
   // This Function handles updating demand
-  const handleSync = async () => {
+  const handleSync = async (day) => {
     setIsLoading(true);
-    console.log(demand);
     try {
-      const res = await fetch(`${demandURL}all_branch_transactions.json`);
+      const res = await fetch(
+        `${demandURL}all_branch_transactions_day_${day}.json`,
+      );
       const data = await res.json();
       setDemand(data);
       localStorage.removeItem("demand");
@@ -50,14 +51,16 @@ function App() {
 
   useEffect(() => {
     fetchData();
-    console.log(demand);
   }, []);
 
   return (
     <BrowserRouter>
       <Nav handleSync={handleSync} />
       <Routes>
-        <Route path="/" element={<Home loadDemand={demand} />} />
+        <Route
+          path="/"
+          element={<Home handleSync={handleSync} loadDemand={demand} />}
+        />
         <Route path="/data" element={<Data demand={demand} />} />
       </Routes>
     </BrowserRouter>

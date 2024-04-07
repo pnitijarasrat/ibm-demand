@@ -20,11 +20,10 @@ export default function Branch({ day, demand, branch }) {
   return (
     <div>
       <h2>
-        Demand at the end of Day {day} of Branch {branch}
+        {demand.length !== 0
+          ? `Demand of Day: ${demand[0].day} of Branch: ${demand[0].branch} `
+          : "No Data [ Please Sync ]"}
       </h2>
-      <div>
-        Day: {day} Branch: {branch}
-      </div>
       <br />
       <table>
         <thead>

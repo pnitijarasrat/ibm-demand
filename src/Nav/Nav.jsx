@@ -14,7 +14,9 @@ export default function Nav({ handleSync }) {
           <li>Data</li>
         </Link>
       </ul>
-      <button onClick={handleSync}>Sync</button>
+      <button onClick={() => handleSync(localStorage.getItem("day") || 1)}>
+        Sync
+      </button>
     </nav>
   );
 }
