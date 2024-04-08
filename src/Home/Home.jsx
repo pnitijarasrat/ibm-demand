@@ -14,20 +14,16 @@ export default function Home({ loadDemand, handleSync }) {
   }
 
   const handleView = () => {
-    setDemand(
-      loadDemand.filter(
-        (d) =>
-          parseInt(d.day) === parseInt(day) &&
-          parseInt(d.branch) === parseInt(branch),
-      ),
+    const atDayDemand = loadDemand.filter(
+      (d) => parseInt(d.day) === parseInt(day),
     );
-    console.log(
-      loadDemand.filter(
-        (d) =>
-          parseInt(d.day) === parseInt(day) &&
-          parseInt(d.branch) === parseInt(branch),
-      ),
+    if (atDayDemand.length === 0) return setDemand([]);
+    const displayDemand = atDayDemand[0].transaction.filter(
+      (d) => d.branch === parseInt(branch),
     );
+    setDemand(displayDemand);
+
+    console.log(displayDemand);
     setIsShowingResult(true);
   };
 

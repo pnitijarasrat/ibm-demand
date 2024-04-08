@@ -15,14 +15,22 @@ function App() {
     setIsLoading(true);
     const cacheData = JSON.parse(localStorage.getItem("demand"));
     let data;
+    const day = localStorage.getItem("day" || "1");
 
     if (cacheData) {
       data = cacheData;
     } else {
       try {
-        const res = await fetch(`${demandURL}all_branch_transactions.json`);
+        const res = await fetch(
+          `${demandURL}all_branch_transactions_day_${day}.json`,
+        );
         data = await res.json();
-        localStorage.setItem("demand", JSON.stringify(data));
+        const newDemand = {
+          day: day,
+          transaction: data,
+        };
+        const newDemandData = [...demand, newDemand];
+        localStorage.setItem("demand", JSON.stringify(newDemandData));
       } catch (e) {
         console.log(e);
       }
@@ -33,16 +41,29 @@ function App() {
   };
 
   // This Function handles updating demand
+  // TODO: Handle Cache all downloaded demand at day t
   const handleSync = async (day) => {
     setIsLoading(true);
+    const cacheData = JSON.parse(localStorage.getItem("demand"));
+    const cacheDate = cacheData.map((d) => d.day);
+    let data;
     try {
-      const res = await fetch(
-        `${demandURL}all_branch_transactions_day_${day}.json`,
-      );
-      const data = await res.json();
-      setDemand(data);
-      localStorage.removeItem("demand");
-      localStorage.setItem("demand", JSON.stringify(data));
+      if (cacheDate.includes(day.toString())) {
+        data = cacheData;
+        setDemand(data);
+      } else {
+        const res = await fetch(
+          `${demandURL}all_branch_transactions_day_${day}.json`,
+        );
+        const data = await res.json();
+        const newDemand = {
+          day: day,
+          transaction: data,
+        };
+        const newDemandData = [...demand, newDemand];
+        setDemand(newDemandData);
+        localStorage.setItem("demand", JSON.stringify(newDemandData));
+      }
     } catch (e) {
       console.log(e);
     }
@@ -51,6 +72,8 @@ function App() {
 
   useEffect(() => {
     fetchData();
+    console.log(JSON.parse(localStorage.getItem("demand")));
+    // localStorage.removeItem("demand");
   }, []);
 
   return (
