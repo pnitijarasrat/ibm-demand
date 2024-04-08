@@ -5,7 +5,7 @@ import Nav from "./Nav/Nav";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Data from "./Data/Data";
 import { demandURL } from "./constant/demandUrl";
-import axios from "axios";
+import Dashboard from "./Dashboard/Dashboard";
 
 function App() {
   const [demand, setDemand] = useState([]);
@@ -41,7 +41,6 @@ function App() {
   };
 
   // This Function handles updating demand
-  // TODO: Handle Cache all downloaded demand at day t
   const handleSync = async (day) => {
     setIsLoading(true);
     const cacheData = JSON.parse(localStorage.getItem("demand"));
@@ -72,7 +71,6 @@ function App() {
 
   useEffect(() => {
     fetchData();
-    console.log(JSON.parse(localStorage.getItem("demand")));
     // localStorage.removeItem("demand");
   }, []);
 
@@ -85,6 +83,7 @@ function App() {
           element={<Home handleSync={handleSync} loadDemand={demand} />}
         />
         <Route path="/data" element={<Data demand={demand} />} />
+        <Route path="/dashboard" element={<Dashboard demand={demand} />} />
       </Routes>
     </BrowserRouter>
   );
