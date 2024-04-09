@@ -1,10 +1,11 @@
 import React, { useState } from "react";
 import "./Home.css";
 import Branch from "../Branch/Branch";
+import { Form, Input, Button, Divider } from "antd";
 
 export default function Home({ loadDemand, handleSync }) {
   const [branch, setBranch] = useState(localStorage.getItem("branch") || 1);
-  const [day, setDay] = useState(localStorage.getItem("day") || 61);
+  const [day, setDay] = useState(localStorage.getItem("day") || 60);
   const [demand, setDemand] = useState(loadDemand);
   const [isShowingResult, setIsShowingResult] = useState(false);
   const branchNumber = [];
@@ -40,6 +41,14 @@ export default function Home({ loadDemand, handleSync }) {
     }
   };
 
+  const [dateForm] = Form.useForm();
+
+  const handleSetDate = () => {
+    setDay(parseInt(dateForm.getFieldsValue().startDate));
+    setIsShowingResult(false);
+    localStorage.setItem("day", day);
+  };
+
   return (
     <div className="page-container">
       <h1>Demand Monitoring System</h1>
@@ -70,6 +79,7 @@ export default function Home({ loadDemand, handleSync }) {
           })}
         </select>
         <br />
+
         {/* {branchNumber.map((branch) => { */}
         {/*   return ( */}
         {/*     <div */}
@@ -85,15 +95,22 @@ export default function Home({ loadDemand, handleSync }) {
         {/*   ); */}
         {/* })} */}
       </div>
+      <br />
+      <Form form={dateForm} onFinish={handleSetDate}>
+        <Form.Item name="startDate" label="Start Date">
+          <Input />
+        </Form.Item>
+        <Button htmlType="submit">Set Start Date</Button>
+      </Form>
+      <Divider />
       <h2>Day: {day}</h2>
       <div>
-        Day:{" "}
-        <input
-          onChange={(e) => {
-            setDay(e.target.value);
-            setIsShowingResult(false);
-          }}
-        />{" "}
+        Day: {/* <input */}
+        {/*   onChange={(e) => { */}
+        {/*     setDay(parseInt(e.target.value); */}
+        {/*     setIsShowingResult(false); */}
+        {/*   }} */}
+        {/* />{" "} */}
         <button onClick={() => handleDayButton("decrease")}>-</button>{" "}
         <button onClick={() => handleDayButton("increase")}>+</button>
       </div>
