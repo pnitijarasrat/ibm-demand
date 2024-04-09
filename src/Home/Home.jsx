@@ -4,7 +4,7 @@ import Branch from "../Branch/Branch";
 
 export default function Home({ loadDemand, handleSync }) {
   const [branch, setBranch] = useState(localStorage.getItem("branch") || 1);
-  const [day, setDay] = useState(localStorage.getItem("day") || 1);
+  const [day, setDay] = useState(localStorage.getItem("day") || 61);
   const [demand, setDemand] = useState(loadDemand);
   const [isShowingResult, setIsShowingResult] = useState(false);
   const branchNumber = [];
