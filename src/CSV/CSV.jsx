@@ -54,7 +54,7 @@ export default function CSV() {
       ) {
         dataArray.push({
           branch: i,
-          day: handleDisplayDate(day),
+          day: day,
           productA: productA,
           productB: productB,
           productC: productC,
@@ -108,7 +108,7 @@ export default function CSV() {
           {demand.length !== 0 && (
             <CSVLink
               headers={demandHeader}
-              filename={`day_${handleDisplayDate(form.getFieldsValue("day").date)}`}
+              filename={`day_$form.getFieldsValue("day").date`}
               data={demand}
             >
               <Button type="primary" style={{ color: "white" }}>
@@ -119,10 +119,13 @@ export default function CSV() {
         </Flex>
       </Form>
       <Divider />
-      <div className="highlight">
-        {" "}
-        The <i>'Day'</i> displays below is what operator will see. ( match with
-        operation sheet )
+      <div>
+        <h3>Note</h3>
+        <div>
+          It's good idea to download the csv demand ( by clicking the blue
+          button above ) everytime the day changes, it would help me a lot.
+          Thanks you kub.
+        </div>
       </div>
       <br />
       {fetching ? (
