@@ -72,10 +72,10 @@ export default function CSV() {
   const demandHeader = [
     { label: "Branch", key: "branch" },
     { label: "Day", key: "day" },
-    { label: "Produt A", key: "productA" },
-    { label: "Produt B", key: "productB" },
-    { label: "Produt C", key: "productC" },
-    { label: "Produt D", key: "productD" },
+    { label: "Product A", key: "productA" },
+    { label: "Product B", key: "productB" },
+    { label: "Product C", key: "productC" },
+    { label: "Product D", key: "productD" },
   ];
 
   const handleDisplayDate = (input) => {
