@@ -3,7 +3,7 @@ import "./Home.css";
 import Branch from "../Branch/Branch";
 import { Form, Input, Button, Divider } from "antd";
 
-export default function Home({ loadDemand, handleSync }) {
+export default function Home({ loadDemand, handleSync, isSyncing }) {
   const [branch, setBranch] = useState(localStorage.getItem("branch") || 1);
   const [day, setDay] = useState(localStorage.getItem("day") || 60);
   const [demand, setDemand] = useState(loadDemand);
@@ -119,9 +119,9 @@ export default function Home({ loadDemand, handleSync }) {
         <button
           onClick={() => handleSync(localStorage.getItem("day") || day || 1)}
         >
-          Sync
+          {isSyncing ? "Syncing..." : "Sync"}
         </button>{" "}
-        <button onClick={handleView}>View</button>
+        {!isSyncing && <button onClick={handleView}>View</button>}
       </div>
       {isShowingResult && <Branch day={day} branch={branch} demand={demand} />}
     </div>
