@@ -54,7 +54,7 @@ export default function CSV() {
       ) {
         dataArray.push({
           branch: i,
-          day: day,
+          day: handleDisplayDate(day),
           productA: productA,
           productB: productB,
           productC: productC,
@@ -78,6 +78,16 @@ export default function CSV() {
     { label: "Produt D", key: "productD" },
   ];
 
+  const handleDisplayDate = (input) => {
+    const boardDate = parseInt(input);
+    const index = boardDate - 1;
+    const week = Math.floor(index / 5);
+    // This is the first week, nothing different
+    if (week === 0) return boardDate;
+    // This is not the first week so everything fucks
+    else return boardDate + 2 * week;
+  };
+
   return (
     <div className="page-container">
       <h1>Request Data</h1>
@@ -98,7 +108,7 @@ export default function CSV() {
           {demand.length !== 0 && (
             <CSVLink
               headers={demandHeader}
-              filename={`day_${form.getFieldsValue("day").date}`}
+              filename={`day_${handleDisplayDate(form.getFieldsValue("day").date)}`}
               data={demand}
             >
               <Button type="primary" style={{ color: "white" }}>
