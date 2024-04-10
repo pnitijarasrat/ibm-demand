@@ -2,7 +2,6 @@
 
 * {
   font-family: "Roboto", sans-serif;
-  color: #333;
 }
 
 .page-container {
@@ -48,4 +47,10 @@ tr:hover {
   align-items: center;
   justify-content: flex-end;
   gap: 16px;
+}
+
+.highlight {
+  padding: 8px 16px;
+  border-radius: 5px;
+  border-left: 3px solid red;
 }

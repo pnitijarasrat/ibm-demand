@@ -90,12 +90,31 @@ export default function CSV() {
       </div>
       <Divider />
       <Form form={form} onFinish={handleSubmit}>
-        <Form.Item name="date" label="Requested Date">
+        <Form.Item name="date" label="Requested Date ( Board Date )">
           <Input />
         </Form.Item>
-        <Button htmlType="submit">Request</Button>
+        <Flex justify="space-between" style={{ width: "100%" }}>
+          <Button htmlType="submit">Request</Button>
+          {demand.length !== 0 && (
+            <CSVLink
+              headers={demandHeader}
+              filename={`day_${form.getFieldsValue("day").date}`}
+              data={demand}
+            >
+              <Button type="primary" style={{ color: "white" }}>
+                Export Demand CSV
+              </Button>
+            </CSVLink>
+          )}
+        </Flex>
       </Form>
       <Divider />
+      <div className="highlight">
+        {" "}
+        The <i>'Day'</i> displays below is what operator will see. ( match with
+        operation sheet )
+      </div>
+      <br />
       {fetching ? (
         <div>Requesting....</div>
       ) : demand.length > 0 ? (
@@ -126,17 +145,7 @@ export default function CSV() {
       ) : (
         <div>No Data </div>
       )}
-      <Flex justify="end" gap="middle" style={{ marginBottom: "32px" }}>
-        {demand.length !== 0 && (
-          <CSVLink
-            headers={demandHeader}
-            filename={`day_${form.getFieldsValue("day").date}`}
-            data={demand}
-          >
-            <Button>Export Demand CSV</Button>
-          </CSVLink>
-        )}
-      </Flex>
+      <Flex justify="end" gap="middle" style={{ marginBottom: "32px" }}></Flex>
     </div>
   );
 }
