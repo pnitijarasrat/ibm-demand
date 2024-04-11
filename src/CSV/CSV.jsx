@@ -1,12 +1,37 @@
 import React, { useState } from "react";
 import { Input, Form, Button, Divider, Flex } from "antd";
-import { demandURL } from "../constant/demandUrl";
+import { demandURL, scriptURL } from "../constant/demandUrl";
 import { CSVLink } from "react-csv";
+import axios from "axios";
+import { message } from "antd";
 
 export default function CSV() {
   const [form] = Form.useForm();
   const [fetching, setFetching] = useState(false);
   const [demand, setDemand] = useState([]);
+
+  const [messageApi, contextHolder] = message.useMessage();
+
+  const success = () => {
+    messageApi.open({
+      type: "success",
+      content: "Sent !",
+    });
+  };
+
+  const error = () => {
+    messageApi.open({
+      type: "error",
+      content: "Send Failed",
+    });
+  };
+
+  const loading = () => {
+    messageApi.open({
+      type: "loading",
+      content: "Sending...",
+    });
+  };
 
   const handleRequestData = async (day) => {
     setFetching(true);
@@ -18,16 +43,24 @@ export default function CSV() {
       );
       const data = await res.json();
 
-      console.log(data);
-
       handleCalculation(data, dataArray, day);
       setDemand(dataArray);
-
-      console.log("fetch at", day);
+      if (dataArray.length !== 0) {
+        loading();
+        axios
+          .post(scriptURL, dataArray)
+          .then((res) => {
+            success();
+            console.log("send");
+          })
+          .catch((e) => {
+            console.log(e);
+            error();
+          });
+      }
     } catch (e) {
       console.log(e);
     }
-    console.log(dataArray);
     setFetching(false);
   };
 
@@ -89,76 +122,78 @@ export default function CSV() {
   };
 
   return (
-    <div className="page-container">
-      <h1>Request Data</h1>
-      <div>
-        This page will handle requesting data of{" "}
-        <i>
-          <b>all branch</b>
-        </i>{" "}
-        of the requested date
-      </div>
-      <Divider />
-      <Form form={form} onFinish={handleSubmit}>
-        <Form.Item name="date" label="Requested Date ( Board Date )">
-          <Input />
-        </Form.Item>
-        <Flex justify="space-between" style={{ width: "100%" }}>
-          <Button htmlType="submit">Request</Button>
-          {demand.length !== 0 && (
-            <CSVLink
-              headers={demandHeader}
-              filename={`day_$form.getFieldsValue("day").date`}
-              data={demand}
-            >
-              <Button type="primary" style={{ color: "white" }}>
-                Export Demand CSV
-              </Button>
-            </CSVLink>
-          )}
-        </Flex>
-      </Form>
-      <Divider />
-      <div>
-        <h3>Note</h3>
+    <>
+      {contextHolder}
+      <div className="page-container">
+        <h1>Request Data</h1>
         <div>
-          It's good idea to download the csv demand ( by clicking the blue
-          button above ) everytime the day changes, it would help me a lot.
-          Thanks you kub.
+          This page will handle requesting data of{" "}
+          <i>
+            <b>all branch</b>
+          </i>{" "}
+          of the requested date
         </div>
-      </div>
-      <br />
-      {fetching ? (
-        <div>Requesting....</div>
-      ) : demand.length > 0 ? (
-        <table>
-          <thead>
-            <tr>
-              <th>Day</th>
-              <th>Branch</th>
-              <th>Product A</th>
-              <th>Product B</th>
-              <th>Product C</th>
-              <th>Product D</th>
-            </tr>
-          </thead>
-          <tbody>
-            {demand.map((d) => (
-              <tr key={d.branch}>
-                <td>{d.day}</td>
-                <td>{d.branch}</td>
-                <td>{d.productA}</td>
-                <td>{d.productB}</td>
-                <td>{d.productC}</td>
-                <td>{d.productD}</td>
+        <Divider />
+        <Form form={form} onFinish={handleSubmit}>
+          <Form.Item name="date" label="Requested Date">
+            <Input />
+          </Form.Item>
+          <Flex justify="space-between" style={{ width: "100%" }}>
+            <Button htmlType="submit">Request</Button>
+            {demand.length !== 0 && (
+              <CSVLink
+                headers={demandHeader}
+                filename={`day_$form.getFieldsValue("day").date`}
+                data={demand}
+              >
+                <Button type="primary" style={{ color: "white" }}>
+                  Export Demand CSV
+                </Button>
+              </CSVLink>
+            )}
+          </Flex>
+        </Form>
+        <Divider />
+        <div>
+          <h3>Note</h3>
+          <div>
+            It's good idea to download the csv demand ( by clicking the blue
+            button above ) everytime the day changes, it would help me a lot.
+            Thanks you kub.
+          </div>
+        </div>
+        <br />
+        {fetching ? (
+          <div>Requesting....</div>
+        ) : demand.length > 0 ? (
+          <table>
+            <thead>
+              <tr>
+                <th>Day</th>
+                <th>Branch</th>
+                <th>Product A</th>
+                <th>Product B</th>
+                <th>Product C</th>
+                <th>Product D</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      ) : (
-        <div>No Data </div>
-      )}
-      <Flex justify="end" gap="middle" style={{ marginBottom: "32px" }}></Flex>
-    </div>
+            </thead>
+            <tbody>
+              {demand.map((d) => (
+                <tr key={d.branch}>
+                  <td>{d.day}</td>
+                  <td>{d.branch}</td>
+                  <td>{d.productA}</td>
+                  <td>{d.productB}</td>
+                  <td>{d.productC}</td>
+                  <td>{d.productD}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        ) : (
+          <div>No Data </div>
+        )}
+      </div>
+    </>
   );
 }
